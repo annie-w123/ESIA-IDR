@@ -1,0 +1,567 @@
+Thu 01 Oct 2026 22:46:09 INFO  epoch 0 training [time: 0.20s, train loss: 45.3433]
+Thu 01 Oct 2026 22:46:16 INFO  epoch 0 evaluating [time: 7.21s, valid_score: 0.001000]
+Thu 01 Oct 2026 22:46:16 INFO  valid result: 
+recall@5 : 0.0005    recall@10 : 0.0043    recall@15 : 0.0043    recall@20 : 0.0054    mrr@5 : 0.0005    mrr@10 : 0.001    mrr@15 : 0.001    mrr@20 : 0.001    ndcg@5 : 0.0005    ndcg@10 : 0.0017    ndcg@15 : 0.0017    ndcg@20 : 0.002    hit@5 : 0.0005    hit@10 : 0.0043    hit@15 : 0.0043    hit@20 : 0.0054    precision@5 : 0.0001    precision@10 : 0.0004    precision@15 : 0.0003    precision@20 : 0.0003    f1@5 : 0.0002    f1@10 : 0.0008    f1@15 : 0.0005    f1@20 : 0.0005    gauc : 0.5049
+Thu 01 Oct 2026 22:46:16 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:46:17 INFO  epoch 1 training [time: 0.20s, train loss: 43.4046]
+Thu 01 Oct 2026 22:46:24 INFO  epoch 1 evaluating [time: 7.09s, valid_score: 0.001000]
+Thu 01 Oct 2026 22:46:24 INFO  valid result: 
+recall@5 : 0.0005    recall@10 : 0.0043    recall@15 : 0.0048    recall@20 : 0.0065    mrr@5 : 0.0005    mrr@10 : 0.001    mrr@15 : 0.0011    mrr@20 : 0.0012    ndcg@5 : 0.0005    ndcg@10 : 0.0018    ndcg@15 : 0.0019    ndcg@20 : 0.0023    hit@5 : 0.0005    hit@10 : 0.0043    hit@15 : 0.0048    hit@20 : 0.0065    precision@5 : 0.0001    precision@10 : 0.0004    precision@15 : 0.0003    precision@20 : 0.0003    f1@5 : 0.0002    f1@10 : 0.0008    f1@15 : 0.0006    f1@20 : 0.0006    gauc : 0.5102
+Thu 01 Oct 2026 22:46:24 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:46:24 INFO  epoch 2 training [time: 0.20s, train loss: 43.0317]
+Thu 01 Oct 2026 22:46:31 INFO  epoch 2 evaluating [time: 7.10s, valid_score: 0.001100]
+Thu 01 Oct 2026 22:46:31 INFO  valid result: 
+recall@5 : 0.0011    recall@10 : 0.0043    recall@15 : 0.0065    recall@20 : 0.007    mrr@5 : 0.0007    mrr@10 : 0.0011    mrr@15 : 0.0013    mrr@20 : 0.0013    ndcg@5 : 0.0008    ndcg@10 : 0.0018    ndcg@15 : 0.0024    ndcg@20 : 0.0025    hit@5 : 0.0011    hit@10 : 0.0043    hit@15 : 0.0065    hit@20 : 0.007    precision@5 : 0.0002    precision@10 : 0.0004    precision@15 : 0.0004    precision@20 : 0.0003    f1@5 : 0.0004    f1@10 : 0.0008    f1@15 : 0.0008    f1@20 : 0.0007    gauc : 0.5155
+Thu 01 Oct 2026 22:46:32 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:46:32 INFO  epoch 3 training [time: 0.20s, train loss: 42.5429]
+Thu 01 Oct 2026 22:46:39 INFO  epoch 3 evaluating [time: 7.13s, valid_score: 0.001200]
+Thu 01 Oct 2026 22:46:39 INFO  valid result: 
+recall@5 : 0.0016    recall@10 : 0.0048    recall@15 : 0.0065    recall@20 : 0.0086    mrr@5 : 0.0008    mrr@10 : 0.0012    mrr@15 : 0.0013    mrr@20 : 0.0015    ndcg@5 : 0.001    ndcg@10 : 0.002    ndcg@15 : 0.0025    ndcg@20 : 0.003    hit@5 : 0.0016    hit@10 : 0.0048    hit@15 : 0.0065    hit@20 : 0.0086    precision@5 : 0.0003    precision@10 : 0.0005    precision@15 : 0.0004    precision@20 : 0.0004    f1@5 : 0.0005    f1@10 : 0.0009    f1@15 : 0.0008    f1@20 : 0.0008    gauc : 0.5209
+Thu 01 Oct 2026 22:46:39 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:46:39 INFO  epoch 4 training [time: 0.20s, train loss: 42.1858]
+Thu 01 Oct 2026 22:46:47 INFO  epoch 4 evaluating [time: 7.10s, valid_score: 0.001300]
+Thu 01 Oct 2026 22:46:47 INFO  valid result: 
+recall@5 : 0.0022    recall@10 : 0.0054    recall@15 : 0.0075    recall@20 : 0.0097    mrr@5 : 0.0009    mrr@10 : 0.0013    mrr@15 : 0.0015    mrr@20 : 0.0016    ndcg@5 : 0.0012    ndcg@10 : 0.0022    ndcg@15 : 0.0028    ndcg@20 : 0.0033    hit@5 : 0.0022    hit@10 : 0.0054    hit@15 : 0.0075    hit@20 : 0.0097    precision@5 : 0.0004    precision@10 : 0.0005    precision@15 : 0.0005    precision@20 : 0.0005    f1@5 : 0.0007    f1@10 : 0.001    f1@15 : 0.0009    f1@20 : 0.0009    gauc : 0.5264
+Thu 01 Oct 2026 22:46:47 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:46:47 INFO  epoch 5 training [time: 0.20s, train loss: 41.3107]
+Thu 01 Oct 2026 22:46:54 INFO  epoch 5 evaluating [time: 7.10s, valid_score: 0.001600]
+Thu 01 Oct 2026 22:46:54 INFO  valid result: 
+recall@5 : 0.0027    recall@10 : 0.0065    recall@15 : 0.0086    recall@20 : 0.0113    mrr@5 : 0.0011    mrr@10 : 0.0016    mrr@15 : 0.0017    mrr@20 : 0.0019    ndcg@5 : 0.0015    ndcg@10 : 0.0027    ndcg@15 : 0.0032    ndcg@20 : 0.0039    hit@5 : 0.0027    hit@10 : 0.0065    hit@15 : 0.0086    hit@20 : 0.0113    precision@5 : 0.0005    precision@10 : 0.0006    precision@15 : 0.0006    precision@20 : 0.0006    f1@5 : 0.0009    f1@10 : 0.0012    f1@15 : 0.0011    f1@20 : 0.0011    gauc : 0.5317
+Thu 01 Oct 2026 22:46:54 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:46:55 INFO  epoch 6 training [time: 0.20s, train loss: 41.6321]
+Thu 01 Oct 2026 22:47:02 INFO  epoch 6 evaluating [time: 7.11s, valid_score: 0.001800]
+Thu 01 Oct 2026 22:47:02 INFO  valid result: 
+recall@5 : 0.0027    recall@10 : 0.0081    recall@15 : 0.0097    recall@20 : 0.0129    mrr@5 : 0.0012    mrr@10 : 0.0018    mrr@15 : 0.002    mrr@20 : 0.0021    ndcg@5 : 0.0015    ndcg@10 : 0.0032    ndcg@15 : 0.0036    ndcg@20 : 0.0044    hit@5 : 0.0027    hit@10 : 0.0081    hit@15 : 0.0097    hit@20 : 0.0129    precision@5 : 0.0005    precision@10 : 0.0008    precision@15 : 0.0006    precision@20 : 0.0006    f1@5 : 0.0009    f1@10 : 0.0015    f1@15 : 0.0012    f1@20 : 0.0012    gauc : 0.5371
+Thu 01 Oct 2026 22:47:02 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:47:02 INFO  epoch 7 training [time: 0.20s, train loss: 41.3068]
+Thu 01 Oct 2026 22:47:09 INFO  epoch 7 evaluating [time: 7.11s, valid_score: 0.002200]
+Thu 01 Oct 2026 22:47:09 INFO  valid result: 
+recall@5 : 0.0032    recall@10 : 0.0081    recall@15 : 0.0129    recall@20 : 0.0151    mrr@5 : 0.0016    mrr@10 : 0.0022    mrr@15 : 0.0026    mrr@20 : 0.0027    ndcg@5 : 0.002    ndcg@10 : 0.0036    ndcg@15 : 0.0048    ndcg@20 : 0.0053    hit@5 : 0.0032    hit@10 : 0.0081    hit@15 : 0.0129    hit@20 : 0.0151    precision@5 : 0.0006    precision@10 : 0.0008    precision@15 : 0.0009    precision@20 : 0.0008    f1@5 : 0.0011    f1@10 : 0.0015    f1@15 : 0.0016    f1@20 : 0.0014    gauc : 0.5425
+Thu 01 Oct 2026 22:47:10 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:47:10 INFO  epoch 8 training [time: 0.20s, train loss: 41.0029]
+Thu 01 Oct 2026 22:47:17 INFO  epoch 8 evaluating [time: 7.12s, valid_score: 0.002600]
+Thu 01 Oct 2026 22:47:17 INFO  valid result: 
+recall@5 : 0.0048    recall@10 : 0.0097    recall@15 : 0.0135    recall@20 : 0.0183    mrr@5 : 0.002    mrr@10 : 0.0026    mrr@15 : 0.0029    mrr@20 : 0.0032    ndcg@5 : 0.0027    ndcg@10 : 0.0042    ndcg@15 : 0.0052    ndcg@20 : 0.0063    hit@5 : 0.0048    hit@10 : 0.0097    hit@15 : 0.0135    hit@20 : 0.0183    precision@5 : 0.001    precision@10 : 0.001    precision@15 : 0.0009    precision@20 : 0.0009    f1@5 : 0.0016    f1@10 : 0.0018    f1@15 : 0.0017    f1@20 : 0.0017    gauc : 0.548
+Thu 01 Oct 2026 22:47:17 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:47:18 INFO  epoch 9 training [time: 0.21s, train loss: 40.4912]
+Thu 01 Oct 2026 22:47:25 INFO  epoch 9 evaluating [time: 7.18s, valid_score: 0.003400]
+Thu 01 Oct 2026 22:47:25 INFO  valid result: 
+recall@5 : 0.0054    recall@10 : 0.0124    recall@15 : 0.0156    recall@20 : 0.0194    mrr@5 : 0.0026    mrr@10 : 0.0034    mrr@15 : 0.0037    mrr@20 : 0.0039    ndcg@5 : 0.0033    ndcg@10 : 0.0054    ndcg@15 : 0.0063    ndcg@20 : 0.0072    hit@5 : 0.0054    hit@10 : 0.0124    hit@15 : 0.0156    hit@20 : 0.0194    precision@5 : 0.0011    precision@10 : 0.0012    precision@15 : 0.001    precision@20 : 0.001    f1@5 : 0.0018    f1@10 : 0.0023    f1@15 : 0.002    f1@20 : 0.0018    gauc : 0.5533
+Thu 01 Oct 2026 22:47:25 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:47:25 INFO  epoch 10 training [time: 0.20s, train loss: 40.4846]
+Thu 01 Oct 2026 22:47:33 INFO  epoch 10 evaluating [time: 7.17s, valid_score: 0.004100]
+Thu 01 Oct 2026 22:47:33 INFO  valid result: 
+recall@5 : 0.0054    recall@10 : 0.0135    recall@15 : 0.0183    recall@20 : 0.0205    mrr@5 : 0.003    mrr@10 : 0.0041    mrr@15 : 0.0045    mrr@20 : 0.0046    ndcg@5 : 0.0036    ndcg@10 : 0.0062    ndcg@15 : 0.0075    ndcg@20 : 0.008    hit@5 : 0.0054    hit@10 : 0.0135    hit@15 : 0.0183    hit@20 : 0.0205    precision@5 : 0.0011    precision@10 : 0.0013    precision@15 : 0.0012    precision@20 : 0.001    f1@5 : 0.0018    f1@10 : 0.0024    f1@15 : 0.0023    f1@20 : 0.0019    gauc : 0.5585
+Thu 01 Oct 2026 22:47:33 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:47:33 INFO  epoch 11 training [time: 0.20s, train loss: 40.0336]
+Thu 01 Oct 2026 22:47:40 INFO  epoch 11 evaluating [time: 7.16s, valid_score: 0.005500]
+Thu 01 Oct 2026 22:47:40 INFO  valid result: 
+recall@5 : 0.0097    recall@10 : 0.0161    recall@15 : 0.0199    recall@20 : 0.0226    mrr@5 : 0.0047    mrr@10 : 0.0055    mrr@15 : 0.0058    mrr@20 : 0.006    ndcg@5 : 0.0059    ndcg@10 : 0.0079    ndcg@15 : 0.0089    ndcg@20 : 0.0096    hit@5 : 0.0097    hit@10 : 0.0161    hit@15 : 0.0199    hit@20 : 0.0226    precision@5 : 0.0019    precision@10 : 0.0016    precision@15 : 0.0013    precision@20 : 0.0011    f1@5 : 0.0032    f1@10 : 0.0029    f1@15 : 0.0025    f1@20 : 0.0022    gauc : 0.5638
+Thu 01 Oct 2026 22:47:40 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:47:41 INFO  epoch 12 training [time: 0.20s, train loss: 39.7776]
+Thu 01 Oct 2026 22:47:48 INFO  epoch 12 evaluating [time: 7.16s, valid_score: 0.006800]
+Thu 01 Oct 2026 22:47:48 INFO  valid result: 
+recall@5 : 0.0118    recall@10 : 0.0183    recall@15 : 0.0215    recall@20 : 0.0269    mrr@5 : 0.006    mrr@10 : 0.0068    mrr@15 : 0.007    mrr@20 : 0.0073    ndcg@5 : 0.0074    ndcg@10 : 0.0094    ndcg@15 : 0.0103    ndcg@20 : 0.0115    hit@5 : 0.0118    hit@10 : 0.0183    hit@15 : 0.0215    hit@20 : 0.0269    precision@5 : 0.0024    precision@10 : 0.0018    precision@15 : 0.0014    precision@20 : 0.0013    f1@5 : 0.0039    f1@10 : 0.0033    f1@15 : 0.0027    f1@20 : 0.0026    gauc : 0.569
+Thu 01 Oct 2026 22:47:48 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:47:48 INFO  epoch 13 training [time: 0.20s, train loss: 39.5068]
+Thu 01 Oct 2026 22:47:56 INFO  epoch 13 evaluating [time: 7.16s, valid_score: 0.007600]
+Thu 01 Oct 2026 22:47:56 INFO  valid result: 
+recall@5 : 0.0124    recall@10 : 0.0188    recall@15 : 0.0264    recall@20 : 0.0274    mrr@5 : 0.0068    mrr@10 : 0.0076    mrr@15 : 0.0081    mrr@20 : 0.0082    ndcg@5 : 0.0081    ndcg@10 : 0.0102    ndcg@15 : 0.0122    ndcg@20 : 0.0124    hit@5 : 0.0124    hit@10 : 0.0188    hit@15 : 0.0264    hit@20 : 0.0274    precision@5 : 0.0025    precision@10 : 0.0019    precision@15 : 0.0018    precision@20 : 0.0014    f1@5 : 0.0041    f1@10 : 0.0034    f1@15 : 0.0033    f1@20 : 0.0026    gauc : 0.5742
+Thu 01 Oct 2026 22:47:56 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:47:56 INFO  epoch 14 training [time: 0.20s, train loss: 39.4361]
+Thu 01 Oct 2026 22:48:03 INFO  epoch 14 evaluating [time: 7.15s, valid_score: 0.009400]
+Thu 01 Oct 2026 22:48:03 INFO  valid result: 
+recall@5 : 0.0118    recall@10 : 0.0215    recall@15 : 0.0274    recall@20 : 0.0285    mrr@5 : 0.0081    mrr@10 : 0.0094    mrr@15 : 0.0099    mrr@20 : 0.0099    ndcg@5 : 0.009    ndcg@10 : 0.0122    ndcg@15 : 0.0138    ndcg@20 : 0.014    hit@5 : 0.0118    hit@10 : 0.0215    hit@15 : 0.0274    hit@20 : 0.0285    precision@5 : 0.0024    precision@10 : 0.0022    precision@15 : 0.0018    precision@20 : 0.0014    f1@5 : 0.0039    f1@10 : 0.0039    f1@15 : 0.0034    f1@20 : 0.0027    gauc : 0.5792
+Thu 01 Oct 2026 22:48:03 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:48:04 INFO  epoch 15 training [time: 0.20s, train loss: 39.2209]
+Thu 01 Oct 2026 22:48:11 INFO  epoch 15 evaluating [time: 7.15s, valid_score: 0.010800]
+Thu 01 Oct 2026 22:48:11 INFO  valid result: 
+recall@5 : 0.0145    recall@10 : 0.0253    recall@15 : 0.0269    recall@20 : 0.0318    mrr@5 : 0.0094    mrr@10 : 0.0108    mrr@15 : 0.0109    mrr@20 : 0.0112    ndcg@5 : 0.0107    ndcg@10 : 0.0141    ndcg@15 : 0.0145    ndcg@20 : 0.0157    hit@5 : 0.0145    hit@10 : 0.0253    hit@15 : 0.0269    hit@20 : 0.0318    precision@5 : 0.0029    precision@10 : 0.0025    precision@15 : 0.0018    precision@20 : 0.0016    f1@5 : 0.0048    f1@10 : 0.0046    f1@15 : 0.0034    f1@20 : 0.003    gauc : 0.5843
+Thu 01 Oct 2026 22:48:11 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:48:11 INFO  epoch 16 training [time: 0.20s, train loss: 38.9759]
+Thu 01 Oct 2026 22:48:18 INFO  epoch 16 evaluating [time: 7.14s, valid_score: 0.011400]
+Thu 01 Oct 2026 22:48:18 INFO  valid result: 
+recall@5 : 0.0167    recall@10 : 0.0258    recall@15 : 0.0296    recall@20 : 0.035    mrr@5 : 0.0101    mrr@10 : 0.0114    mrr@15 : 0.0117    mrr@20 : 0.012    ndcg@5 : 0.0117    ndcg@10 : 0.0147    ndcg@15 : 0.0157    ndcg@20 : 0.017    hit@5 : 0.0167    hit@10 : 0.0258    hit@15 : 0.0296    hit@20 : 0.035    precision@5 : 0.0033    precision@10 : 0.0026    precision@15 : 0.002    precision@20 : 0.0017    f1@5 : 0.0056    f1@10 : 0.0047    f1@15 : 0.0037    f1@20 : 0.0033    gauc : 0.5892
+Thu 01 Oct 2026 22:48:19 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:48:19 INFO  epoch 17 training [time: 0.20s, train loss: 38.6076]
+Thu 01 Oct 2026 22:48:26 INFO  epoch 17 evaluating [time: 7.12s, valid_score: 0.012600]
+Thu 01 Oct 2026 22:48:26 INFO  valid result: 
+recall@5 : 0.0205    recall@10 : 0.0264    recall@15 : 0.0312    recall@20 : 0.0385    mrr@5 : 0.0118    mrr@10 : 0.0126    mrr@15 : 0.013    mrr@20 : 0.0134    ndcg@5 : 0.0139    ndcg@10 : 0.0158    ndcg@15 : 0.0171    ndcg@20 : 0.0188    hit@5 : 0.0205    hit@10 : 0.0264    hit@15 : 0.0312    hit@20 : 0.0388    precision@5 : 0.0041    precision@10 : 0.0026    precision@15 : 0.0021    precision@20 : 0.0019    f1@5 : 0.0068    f1@10 : 0.0048    f1@15 : 0.0039    f1@20 : 0.0037    gauc : 0.5941
+Thu 01 Oct 2026 22:48:26 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:48:27 INFO  epoch 18 training [time: 0.20s, train loss: 38.6478]
+Thu 01 Oct 2026 22:48:34 INFO  epoch 18 evaluating [time: 7.14s, valid_score: 0.013300]
+Thu 01 Oct 2026 22:48:34 INFO  valid result: 
+recall@5 : 0.021    recall@10 : 0.028    recall@15 : 0.0344    recall@20 : 0.0401    mrr@5 : 0.0124    mrr@10 : 0.0133    mrr@15 : 0.0138    mrr@20 : 0.0142    ndcg@5 : 0.0145    ndcg@10 : 0.0168    ndcg@15 : 0.0185    ndcg@20 : 0.0198    hit@5 : 0.021    hit@10 : 0.028    hit@15 : 0.0344    hit@20 : 0.0404    precision@5 : 0.0042    precision@10 : 0.0028    precision@15 : 0.0023    precision@20 : 0.002    f1@5 : 0.007    f1@10 : 0.0051    f1@15 : 0.0043    f1@20 : 0.0038    gauc : 0.5989
+Thu 01 Oct 2026 22:48:34 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:48:34 INFO  epoch 19 training [time: 0.20s, train loss: 38.1586]
+Thu 01 Oct 2026 22:48:41 INFO  epoch 19 evaluating [time: 7.11s, valid_score: 0.014400]
+Thu 01 Oct 2026 22:48:41 INFO  valid result: 
+recall@5 : 0.0226    recall@10 : 0.0307    recall@15 : 0.0369    recall@20 : 0.0412    mrr@5 : 0.0133    mrr@10 : 0.0144    mrr@15 : 0.0149    mrr@20 : 0.0151    ndcg@5 : 0.0156    ndcg@10 : 0.0182    ndcg@15 : 0.0198    ndcg@20 : 0.0209    hit@5 : 0.0226    hit@10 : 0.0307    hit@15 : 0.0371    hit@20 : 0.0414    precision@5 : 0.0045    precision@10 : 0.0031    precision@15 : 0.0025    precision@20 : 0.0021    f1@5 : 0.0075    f1@10 : 0.0056    f1@15 : 0.0046    f1@20 : 0.0039    gauc : 0.6038
+Thu 01 Oct 2026 22:48:42 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:48:42 INFO  epoch 20 training [time: 0.20s, train loss: 38.0505]
+Thu 01 Oct 2026 22:48:49 INFO  epoch 20 evaluating [time: 7.10s, valid_score: 0.015400]
+Thu 01 Oct 2026 22:48:49 INFO  valid result: 
+recall@5 : 0.0242    recall@10 : 0.0328    recall@15 : 0.0412    recall@20 : 0.0439    mrr@5 : 0.0142    mrr@10 : 0.0154    mrr@15 : 0.016    mrr@20 : 0.0162    ndcg@5 : 0.0167    ndcg@10 : 0.0195    ndcg@15 : 0.0216    ndcg@20 : 0.0223    hit@5 : 0.0242    hit@10 : 0.0328    hit@15 : 0.0414    hit@20 : 0.0441    precision@5 : 0.0048    precision@10 : 0.0033    precision@15 : 0.0028    precision@20 : 0.0022    f1@5 : 0.0081    f1@10 : 0.006    f1@15 : 0.0052    f1@20 : 0.0042    gauc : 0.6085
+Thu 01 Oct 2026 22:48:49 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:48:49 INFO  epoch 21 training [time: 0.20s, train loss: 37.9814]
+Thu 01 Oct 2026 22:48:56 INFO  epoch 21 evaluating [time: 7.10s, valid_score: 0.016900]
+Thu 01 Oct 2026 22:48:56 INFO  valid result: 
+recall@5 : 0.0269    recall@10 : 0.0347    recall@15 : 0.0428    recall@20 : 0.0514    mrr@5 : 0.0158    mrr@10 : 0.0169    mrr@15 : 0.0175    mrr@20 : 0.018    ndcg@5 : 0.0185    ndcg@10 : 0.0211    ndcg@15 : 0.0232    ndcg@20 : 0.0252    hit@5 : 0.0269    hit@10 : 0.035    hit@15 : 0.0431    hit@20 : 0.0517    precision@5 : 0.0054    precision@10 : 0.0035    precision@15 : 0.0029    precision@20 : 0.0026    f1@5 : 0.009    f1@10 : 0.0064    f1@15 : 0.0054    f1@20 : 0.0049    gauc : 0.6132
+Thu 01 Oct 2026 22:48:57 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:48:57 INFO  epoch 22 training [time: 0.20s, train loss: 37.7236]
+Thu 01 Oct 2026 22:49:04 INFO  epoch 22 evaluating [time: 7.11s, valid_score: 0.017800]
+Thu 01 Oct 2026 22:49:04 INFO  valid result: 
+recall@5 : 0.028    recall@10 : 0.0379    recall@15 : 0.0471    recall@20 : 0.0536    mrr@5 : 0.0164    mrr@10 : 0.0178    mrr@15 : 0.0185    mrr@20 : 0.0189    ndcg@5 : 0.0193    ndcg@10 : 0.0225    ndcg@15 : 0.0249    ndcg@20 : 0.0265    hit@5 : 0.028    hit@10 : 0.0382    hit@15 : 0.0474    hit@20 : 0.0538    precision@5 : 0.0056    precision@10 : 0.0038    precision@15 : 0.0032    precision@20 : 0.0027    f1@5 : 0.0093    f1@10 : 0.0069    f1@15 : 0.0059    f1@20 : 0.0051    gauc : 0.6178
+Thu 01 Oct 2026 22:49:04 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:49:05 INFO  epoch 23 training [time: 0.20s, train loss: 37.5481]
+Thu 01 Oct 2026 22:49:12 INFO  epoch 23 evaluating [time: 7.11s, valid_score: 0.018800]
+Thu 01 Oct 2026 22:49:12 INFO  valid result: 
+recall@5 : 0.0318    recall@10 : 0.0412    recall@15 : 0.0503    recall@20 : 0.0584    mrr@5 : 0.0176    mrr@10 : 0.0188    mrr@15 : 0.0195    mrr@20 : 0.02    ndcg@5 : 0.021    ndcg@10 : 0.024    ndcg@15 : 0.0264    ndcg@20 : 0.0283    hit@5 : 0.0318    hit@10 : 0.0414    hit@15 : 0.0506    hit@20 : 0.0587    precision@5 : 0.0064    precision@10 : 0.0041    precision@15 : 0.0034    precision@20 : 0.0029    f1@5 : 0.0106    f1@10 : 0.0075    f1@15 : 0.0063    f1@20 : 0.0056    gauc : 0.6225
+Thu 01 Oct 2026 22:49:12 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:49:12 INFO  epoch 24 training [time: 0.20s, train loss: 37.3439]
+Thu 01 Oct 2026 22:49:19 INFO  epoch 24 evaluating [time: 7.10s, valid_score: 0.020200]
+Thu 01 Oct 2026 22:49:19 INFO  valid result: 
+recall@5 : 0.0328    recall@10 : 0.0439    recall@15 : 0.0519    recall@20 : 0.0616    mrr@5 : 0.0187    mrr@10 : 0.0202    mrr@15 : 0.0208    mrr@20 : 0.0214    ndcg@5 : 0.0222    ndcg@10 : 0.0257    ndcg@15 : 0.0279    ndcg@20 : 0.0302    hit@5 : 0.0328    hit@10 : 0.0441    hit@15 : 0.0522    hit@20 : 0.0619    precision@5 : 0.0066    precision@10 : 0.0044    precision@15 : 0.0035    precision@20 : 0.0031    f1@5 : 0.0109    f1@10 : 0.008    f1@15 : 0.0065    f1@20 : 0.0059    gauc : 0.627
+Thu 01 Oct 2026 22:49:20 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:49:20 INFO  epoch 25 training [time: 0.20s, train loss: 37.2156]
+Thu 01 Oct 2026 22:49:27 INFO  epoch 25 evaluating [time: 7.10s, valid_score: 0.021500]
+Thu 01 Oct 2026 22:49:27 INFO  valid result: 
+recall@5 : 0.0353    recall@10 : 0.046    recall@15 : 0.0557    recall@20 : 0.0665    mrr@5 : 0.0202    mrr@10 : 0.0215    mrr@15 : 0.0223    mrr@20 : 0.0229    ndcg@5 : 0.0239    ndcg@10 : 0.0273    ndcg@15 : 0.0298    ndcg@20 : 0.0324    hit@5 : 0.0355    hit@10 : 0.0463    hit@15 : 0.056    hit@20 : 0.0667    precision@5 : 0.0071    precision@10 : 0.0046    precision@15 : 0.0037    precision@20 : 0.0033    f1@5 : 0.0118    f1@10 : 0.0084    f1@15 : 0.007    f1@20 : 0.0064    gauc : 0.6314
+Thu 01 Oct 2026 22:49:27 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:49:27 INFO  epoch 26 training [time: 0.20s, train loss: 36.9718]
+Thu 01 Oct 2026 22:49:34 INFO  epoch 26 evaluating [time: 7.11s, valid_score: 0.023200]
+Thu 01 Oct 2026 22:49:34 INFO  valid result: 
+recall@5 : 0.0369    recall@10 : 0.0482    recall@15 : 0.0579    recall@20 : 0.0708    mrr@5 : 0.0216    mrr@10 : 0.0232    mrr@15 : 0.024    mrr@20 : 0.0247    ndcg@5 : 0.0254    ndcg@10 : 0.0291    ndcg@15 : 0.0317    ndcg@20 : 0.0347    hit@5 : 0.0371    hit@10 : 0.0484    hit@15 : 0.0581    hit@20 : 0.071    precision@5 : 0.0074    precision@10 : 0.0048    precision@15 : 0.0039    precision@20 : 0.0036    f1@5 : 0.0124    f1@10 : 0.0088    f1@15 : 0.0073    f1@20 : 0.0068    gauc : 0.6357
+Thu 01 Oct 2026 22:49:35 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:49:35 INFO  epoch 27 training [time: 0.20s, train loss: 36.8704]
+Thu 01 Oct 2026 22:49:42 INFO  epoch 27 evaluating [time: 7.16s, valid_score: 0.024200]
+Thu 01 Oct 2026 22:49:42 INFO  valid result: 
+recall@5 : 0.0379    recall@10 : 0.0498    recall@15 : 0.0622    recall@20 : 0.0724    mrr@5 : 0.0225    mrr@10 : 0.0242    mrr@15 : 0.0251    mrr@20 : 0.0257    ndcg@5 : 0.0263    ndcg@10 : 0.0302    ndcg@15 : 0.0335    ndcg@20 : 0.0359    hit@5 : 0.0382    hit@10 : 0.0501    hit@15 : 0.0624    hit@20 : 0.0727    precision@5 : 0.0076    precision@10 : 0.005    precision@15 : 0.0042    precision@20 : 0.0036    f1@5 : 0.0127    f1@10 : 0.0091    f1@15 : 0.0078    f1@20 : 0.0069    gauc : 0.64
+Thu 01 Oct 2026 22:49:42 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:49:43 INFO  epoch 28 training [time: 0.20s, train loss: 36.5745]
+Thu 01 Oct 2026 22:49:50 INFO  epoch 28 evaluating [time: 7.16s, valid_score: 0.025500]
+Thu 01 Oct 2026 22:49:50 INFO  valid result: 
+recall@5 : 0.0412    recall@10 : 0.0541    recall@15 : 0.0649    recall@20 : 0.0778    mrr@5 : 0.0238    mrr@10 : 0.0255    mrr@15 : 0.0264    mrr@20 : 0.0271    ndcg@5 : 0.0281    ndcg@10 : 0.0322    ndcg@15 : 0.0351    ndcg@20 : 0.0381    hit@5 : 0.0414    hit@10 : 0.0544    hit@15 : 0.0651    hit@20 : 0.078    precision@5 : 0.0083    precision@10 : 0.0054    precision@15 : 0.0043    precision@20 : 0.0039    f1@5 : 0.0138    f1@10 : 0.0099    f1@15 : 0.0081    f1@20 : 0.0074    gauc : 0.6442
+Thu 01 Oct 2026 22:49:50 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:49:50 INFO  epoch 29 training [time: 0.20s, train loss: 36.5370]
+Thu 01 Oct 2026 22:49:57 INFO  epoch 29 evaluating [time: 7.16s, valid_score: 0.027000]
+Thu 01 Oct 2026 22:49:57 INFO  valid result: 
+recall@5 : 0.0433    recall@10 : 0.0568    recall@15 : 0.0686    recall@20 : 0.0826    mrr@5 : 0.0253    mrr@10 : 0.027    mrr@15 : 0.0279    mrr@20 : 0.0287    ndcg@5 : 0.0297    ndcg@10 : 0.0339    ndcg@15 : 0.0371    ndcg@20 : 0.0404    hit@5 : 0.0436    hit@10 : 0.0571    hit@15 : 0.0689    hit@20 : 0.0829    precision@5 : 0.0087    precision@10 : 0.0057    precision@15 : 0.0046    precision@20 : 0.0041    f1@5 : 0.0145    f1@10 : 0.0104    f1@15 : 0.0086    f1@20 : 0.0079    gauc : 0.6484
+Thu 01 Oct 2026 22:49:58 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:49:58 INFO  epoch 30 training [time: 0.20s, train loss: 36.3974]
+Thu 01 Oct 2026 22:50:05 INFO  epoch 30 evaluating [time: 7.17s, valid_score: 0.027900]
+Thu 01 Oct 2026 22:50:05 INFO  valid result: 
+recall@5 : 0.0444    recall@10 : 0.06    recall@15 : 0.0745    recall@20 : 0.0858    mrr@5 : 0.0259    mrr@10 : 0.0279    mrr@15 : 0.029    mrr@20 : 0.0297    ndcg@5 : 0.0304    ndcg@10 : 0.0354    ndcg@15 : 0.0392    ndcg@20 : 0.0418    hit@5 : 0.0447    hit@10 : 0.0603    hit@15 : 0.0748    hit@20 : 0.0861    precision@5 : 0.0089    precision@10 : 0.006    precision@15 : 0.005    precision@20 : 0.0043    f1@5 : 0.0149    f1@10 : 0.011    f1@15 : 0.0093    f1@20 : 0.0082    gauc : 0.6524
+Thu 01 Oct 2026 22:50:05 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:50:06 INFO  epoch 31 training [time: 0.20s, train loss: 36.3070]
+Thu 01 Oct 2026 22:50:13 INFO  epoch 31 evaluating [time: 7.17s, valid_score: 0.029600]
+Thu 01 Oct 2026 22:50:13 INFO  valid result: 
+recall@5 : 0.0449    recall@10 : 0.0622    recall@15 : 0.0783    recall@20 : 0.0867    mrr@5 : 0.0273    mrr@10 : 0.0296    mrr@15 : 0.0309    mrr@20 : 0.0314    ndcg@5 : 0.0316    ndcg@10 : 0.0372    ndcg@15 : 0.0414    ndcg@20 : 0.0434    hit@5 : 0.0452    hit@10 : 0.0624    hit@15 : 0.0786    hit@20 : 0.0872    precision@5 : 0.009    precision@10 : 0.0062    precision@15 : 0.0052    precision@20 : 0.0044    f1@5 : 0.015    f1@10 : 0.0113    f1@15 : 0.0098    f1@20 : 0.0083    gauc : 0.6564
+Thu 01 Oct 2026 22:50:13 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:50:13 INFO  epoch 32 training [time: 0.20s, train loss: 35.7427]
+Thu 01 Oct 2026 22:50:20 INFO  epoch 32 evaluating [time: 7.16s, valid_score: 0.030700]
+Thu 01 Oct 2026 22:50:20 INFO  valid result: 
+recall@5 : 0.0449    recall@10 : 0.0649    recall@15 : 0.0821    recall@20 : 0.091    mrr@5 : 0.028    mrr@10 : 0.0307    mrr@15 : 0.0321    mrr@20 : 0.0326    ndcg@5 : 0.0321    ndcg@10 : 0.0387    ndcg@15 : 0.0432    ndcg@20 : 0.0453    hit@5 : 0.0452    hit@10 : 0.0651    hit@15 : 0.0823    hit@20 : 0.0915    precision@5 : 0.009    precision@10 : 0.0065    precision@15 : 0.0055    precision@20 : 0.0046    f1@5 : 0.015    f1@10 : 0.0118    f1@15 : 0.0103    f1@20 : 0.0087    gauc : 0.6604
+Thu 01 Oct 2026 22:50:21 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:50:21 INFO  epoch 33 training [time: 0.20s, train loss: 35.8547]
+Thu 01 Oct 2026 22:50:28 INFO  epoch 33 evaluating [time: 7.16s, valid_score: 0.031900]
+Thu 01 Oct 2026 22:50:28 INFO  valid result: 
+recall@5 : 0.0476    recall@10 : 0.0675    recall@15 : 0.0837    recall@20 : 0.0958    mrr@5 : 0.0292    mrr@10 : 0.0319    mrr@15 : 0.0332    mrr@20 : 0.0339    ndcg@5 : 0.0337    ndcg@10 : 0.0402    ndcg@15 : 0.0445    ndcg@20 : 0.0474    hit@5 : 0.0479    hit@10 : 0.0678    hit@15 : 0.084    hit@20 : 0.0963    precision@5 : 0.0096    precision@10 : 0.0068    precision@15 : 0.0056    precision@20 : 0.0048    f1@5 : 0.0159    f1@10 : 0.0123    f1@15 : 0.0105    f1@20 : 0.0092    gauc : 0.6642
+Thu 01 Oct 2026 22:50:28 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:50:29 INFO  epoch 34 training [time: 0.20s, train loss: 35.8272]
+Thu 01 Oct 2026 22:50:36 INFO  epoch 34 evaluating [time: 7.06s, valid_score: 0.033000]
+Thu 01 Oct 2026 22:50:36 INFO  valid result: 
+recall@5 : 0.0519    recall@10 : 0.0708    recall@15 : 0.0869    recall@20 : 0.1001    mrr@5 : 0.0304    mrr@10 : 0.033    mrr@15 : 0.0343    mrr@20 : 0.035    ndcg@5 : 0.0357    ndcg@10 : 0.0418    ndcg@15 : 0.0461    ndcg@20 : 0.0492    hit@5 : 0.0522    hit@10 : 0.071    hit@15 : 0.0872    hit@20 : 0.1006    precision@5 : 0.0104    precision@10 : 0.0071    precision@15 : 0.0058    precision@20 : 0.005    f1@5 : 0.0174    f1@10 : 0.0129    f1@15 : 0.0109    f1@20 : 0.0096    gauc : 0.668
+Thu 01 Oct 2026 22:50:36 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:50:36 INFO  epoch 35 training [time: 0.20s, train loss: 35.5239]
+Thu 01 Oct 2026 22:50:43 INFO  epoch 35 evaluating [time: 7.05s, valid_score: 0.034000]
+Thu 01 Oct 2026 22:50:43 INFO  valid result: 
+recall@5 : 0.0541    recall@10 : 0.0729    recall@15 : 0.091    recall@20 : 0.1044    mrr@5 : 0.0315    mrr@10 : 0.034    mrr@15 : 0.0355    mrr@20 : 0.0362    ndcg@5 : 0.0371    ndcg@10 : 0.0432    ndcg@15 : 0.0479    ndcg@20 : 0.0511    hit@5 : 0.0544    hit@10 : 0.0732    hit@15 : 0.0915    hit@20 : 0.105    precision@5 : 0.0109    precision@10 : 0.0073    precision@15 : 0.0061    precision@20 : 0.0052    f1@5 : 0.0181    f1@10 : 0.0133    f1@15 : 0.0114    f1@20 : 0.01    gauc : 0.6716
+Thu 01 Oct 2026 22:50:44 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:50:44 INFO  epoch 36 training [time: 0.20s, train loss: 35.5154]
+Thu 01 Oct 2026 22:50:51 INFO  epoch 36 evaluating [time: 7.05s, valid_score: 0.034800]
+Thu 01 Oct 2026 22:50:51 INFO  valid result: 
+recall@5 : 0.0552    recall@10 : 0.0751    recall@15 : 0.0942    recall@20 : 0.1066    mrr@5 : 0.0322    mrr@10 : 0.0348    mrr@15 : 0.0363    mrr@20 : 0.0371    ndcg@5 : 0.0378    ndcg@10 : 0.0442    ndcg@15 : 0.0493    ndcg@20 : 0.0522    hit@5 : 0.0554    hit@10 : 0.0753    hit@15 : 0.0947    hit@20 : 0.1071    precision@5 : 0.0111    precision@10 : 0.0075    precision@15 : 0.0063    precision@20 : 0.0054    f1@5 : 0.0185    f1@10 : 0.0137    f1@15 : 0.0118    f1@20 : 0.0102    gauc : 0.6751
+Thu 01 Oct 2026 22:50:51 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:50:51 INFO  epoch 37 training [time: 0.20s, train loss: 35.2175]
+Thu 01 Oct 2026 22:50:58 INFO  epoch 37 evaluating [time: 7.05s, valid_score: 0.036900]
+Thu 01 Oct 2026 22:50:58 INFO  valid result: 
+recall@5 : 0.0573    recall@10 : 0.0788    recall@15 : 0.0974    recall@20 : 0.1098    mrr@5 : 0.0342    mrr@10 : 0.0369    mrr@15 : 0.0384    mrr@20 : 0.0391    ndcg@5 : 0.0398    ndcg@10 : 0.0467    ndcg@15 : 0.0516    ndcg@20 : 0.0546    hit@5 : 0.0576    hit@10 : 0.0791    hit@15 : 0.098    hit@20 : 0.1103    precision@5 : 0.0115    precision@10 : 0.0079    precision@15 : 0.0065    precision@20 : 0.0055    f1@5 : 0.0192    f1@10 : 0.0144    f1@15 : 0.0122    f1@20 : 0.0105    gauc : 0.6786
+Thu 01 Oct 2026 22:50:59 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:50:59 INFO  epoch 38 training [time: 0.20s, train loss: 35.1953]
+Thu 01 Oct 2026 22:51:06 INFO  epoch 38 evaluating [time: 7.07s, valid_score: 0.038300]
+Thu 01 Oct 2026 22:51:06 INFO  valid result: 
+recall@5 : 0.0573    recall@10 : 0.0832    recall@15 : 0.0985    recall@20 : 0.1157    mrr@5 : 0.0349    mrr@10 : 0.0383    mrr@15 : 0.0395    mrr@20 : 0.0405    ndcg@5 : 0.0404    ndcg@10 : 0.0487    ndcg@15 : 0.0527    ndcg@20 : 0.0568    hit@5 : 0.0576    hit@10 : 0.0834    hit@15 : 0.099    hit@20 : 0.1163    precision@5 : 0.0115    precision@10 : 0.0083    precision@15 : 0.0066    precision@20 : 0.0058    f1@5 : 0.0192    f1@10 : 0.0152    f1@15 : 0.0124    f1@20 : 0.0111    gauc : 0.6819
+Thu 01 Oct 2026 22:51:07 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:51:07 INFO  epoch 39 training [time: 0.20s, train loss: 34.8405]
+Thu 01 Oct 2026 22:51:14 INFO  epoch 39 evaluating [time: 7.05s, valid_score: 0.039400]
+Thu 01 Oct 2026 22:51:14 INFO  valid result: 
+recall@5 : 0.06    recall@10 : 0.0848    recall@15 : 0.105    recall@20 : 0.1184    mrr@5 : 0.0362    mrr@10 : 0.0394    mrr@15 : 0.041    mrr@20 : 0.0417    ndcg@5 : 0.042    ndcg@10 : 0.0499    ndcg@15 : 0.0552    ndcg@20 : 0.0584    hit@5 : 0.0603    hit@10 : 0.085    hit@15 : 0.1055    hit@20 : 0.1189    precision@5 : 0.0121    precision@10 : 0.0085    precision@15 : 0.007    precision@20 : 0.0059    f1@5 : 0.0201    f1@10 : 0.0155    f1@15 : 0.0132    f1@20 : 0.0113    gauc : 0.6852
+Thu 01 Oct 2026 22:51:14 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:51:14 INFO  epoch 40 training [time: 0.20s, train loss: 34.6232]
+Thu 01 Oct 2026 22:51:21 INFO  epoch 40 evaluating [time: 7.05s, valid_score: 0.040100]
+Thu 01 Oct 2026 22:51:21 INFO  valid result: 
+recall@5 : 0.0616    recall@10 : 0.0872    recall@15 : 0.1071    recall@20 : 0.1206    mrr@5 : 0.0368    mrr@10 : 0.0401    mrr@15 : 0.0417    mrr@20 : 0.0424    ndcg@5 : 0.0429    ndcg@10 : 0.0511    ndcg@15 : 0.0563    ndcg@20 : 0.0595    hit@5 : 0.0619    hit@10 : 0.0877    hit@15 : 0.1076    hit@20 : 0.1211    precision@5 : 0.0124    precision@10 : 0.0088    precision@15 : 0.0072    precision@20 : 0.0061    f1@5 : 0.0206    f1@10 : 0.0159    f1@15 : 0.0134    f1@20 : 0.0115    gauc : 0.6883
+Thu 01 Oct 2026 22:51:22 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:51:22 INFO  epoch 41 training [time: 0.20s, train loss: 34.6398]
+Thu 01 Oct 2026 22:51:29 INFO  epoch 41 evaluating [time: 7.17s, valid_score: 0.041000]
+Thu 01 Oct 2026 22:51:29 INFO  valid result: 
+recall@5 : 0.0616    recall@10 : 0.0904    recall@15 : 0.1087    recall@20 : 0.1243    mrr@5 : 0.0372    mrr@10 : 0.041    mrr@15 : 0.0425    mrr@20 : 0.0434    ndcg@5 : 0.0433    ndcg@10 : 0.0525    ndcg@15 : 0.0573    ndcg@20 : 0.061    hit@5 : 0.0619    hit@10 : 0.091    hit@15 : 0.1093    hit@20 : 0.1249    precision@5 : 0.0124    precision@10 : 0.0091    precision@15 : 0.0073    precision@20 : 0.0062    f1@5 : 0.0206    f1@10 : 0.0165    f1@15 : 0.0136    f1@20 : 0.0119    gauc : 0.6913
+Thu 01 Oct 2026 22:51:29 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:51:30 INFO  epoch 42 training [time: 0.20s, train loss: 34.4696]
+Thu 01 Oct 2026 22:51:37 INFO  epoch 42 evaluating [time: 7.07s, valid_score: 0.041600]
+Thu 01 Oct 2026 22:51:37 INFO  valid result: 
+recall@5 : 0.0627    recall@10 : 0.0942    recall@15 : 0.1098    recall@20 : 0.127    mrr@5 : 0.0374    mrr@10 : 0.0416    mrr@15 : 0.0428    mrr@20 : 0.0438    ndcg@5 : 0.0437    ndcg@10 : 0.0538    ndcg@15 : 0.0579    ndcg@20 : 0.062    hit@5 : 0.063    hit@10 : 0.0947    hit@15 : 0.1103    hit@20 : 0.1276    precision@5 : 0.0126    precision@10 : 0.0095    precision@15 : 0.0074    precision@20 : 0.0064    f1@5 : 0.021    f1@10 : 0.0172    f1@15 : 0.0138    f1@20 : 0.0121    gauc : 0.6942
+Thu 01 Oct 2026 22:51:37 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:51:37 INFO  epoch 43 training [time: 0.20s, train loss: 34.3306]
+Thu 01 Oct 2026 22:51:44 INFO  epoch 43 evaluating [time: 7.06s, valid_score: 0.042600]
+Thu 01 Oct 2026 22:51:44 INFO  valid result: 
+recall@5 : 0.0649    recall@10 : 0.0963    recall@15 : 0.1141    recall@20 : 0.1329    mrr@5 : 0.0385    mrr@10 : 0.0426    mrr@15 : 0.0439    mrr@20 : 0.045    ndcg@5 : 0.045    ndcg@10 : 0.055    ndcg@15 : 0.0597    ndcg@20 : 0.0641    hit@5 : 0.0651    hit@10 : 0.0969    hit@15 : 0.1146    hit@20 : 0.1335    precision@5 : 0.013    precision@10 : 0.0097    precision@15 : 0.0076    precision@20 : 0.0067    f1@5 : 0.0217    f1@10 : 0.0176    f1@15 : 0.0143    f1@20 : 0.0127    gauc : 0.697
+Thu 01 Oct 2026 22:51:44 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:51:45 INFO  epoch 44 training [time: 0.20s, train loss: 34.3096]
+Thu 01 Oct 2026 22:51:52 INFO  epoch 44 evaluating [time: 7.05s, valid_score: 0.043200]
+Thu 01 Oct 2026 22:51:52 INFO  valid result: 
+recall@5 : 0.0659    recall@10 : 0.0974    recall@15 : 0.1157    recall@20 : 0.1378    mrr@5 : 0.039    mrr@10 : 0.0432    mrr@15 : 0.0446    mrr@20 : 0.0459    ndcg@5 : 0.0456    ndcg@10 : 0.0558    ndcg@15 : 0.0606    ndcg@20 : 0.0658    hit@5 : 0.0662    hit@10 : 0.098    hit@15 : 0.1163    hit@20 : 0.1383    precision@5 : 0.0132    precision@10 : 0.0098    precision@15 : 0.0078    precision@20 : 0.0069    f1@5 : 0.022    f1@10 : 0.0178    f1@15 : 0.0145    f1@20 : 0.0132    gauc : 0.6997
+Thu 01 Oct 2026 22:51:52 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:51:52 INFO  epoch 45 training [time: 0.20s, train loss: 34.2025]
+Thu 01 Oct 2026 22:51:59 INFO  epoch 45 evaluating [time: 7.05s, valid_score: 0.043300]
+Thu 01 Oct 2026 22:51:59 INFO  valid result: 
+recall@5 : 0.0692    recall@10 : 0.099    recall@15 : 0.12    recall@20 : 0.141    mrr@5 : 0.0394    mrr@10 : 0.0433    mrr@15 : 0.045    mrr@20 : 0.0461    ndcg@5 : 0.0467    ndcg@10 : 0.0563    ndcg@15 : 0.0618    ndcg@20 : 0.0668    hit@5 : 0.0694    hit@10 : 0.0996    hit@15 : 0.1206    hit@20 : 0.1416    precision@5 : 0.0139    precision@10 : 0.01    precision@15 : 0.008    precision@20 : 0.0071    f1@5 : 0.0231    f1@10 : 0.0181    f1@15 : 0.0151    f1@20 : 0.0135    gauc : 0.7023
+Thu 01 Oct 2026 22:52:00 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:52:00 INFO  epoch 46 training [time: 0.20s, train loss: 33.8349]
+Thu 01 Oct 2026 22:52:07 INFO  epoch 46 evaluating [time: 7.05s, valid_score: 0.043500]
+Thu 01 Oct 2026 22:52:07 INFO  valid result: 
+recall@5 : 0.0697    recall@10 : 0.1001    recall@15 : 0.1227    recall@20 : 0.1459    mrr@5 : 0.0395    mrr@10 : 0.0435    mrr@15 : 0.0453    mrr@20 : 0.0466    ndcg@5 : 0.0469    ndcg@10 : 0.0567    ndcg@15 : 0.0627    ndcg@20 : 0.0681    hit@5 : 0.07    hit@10 : 0.1006    hit@15 : 0.1233    hit@20 : 0.1464    precision@5 : 0.014    precision@10 : 0.0101    precision@15 : 0.0082    precision@20 : 0.0073    f1@5 : 0.0233    f1@10 : 0.0183    f1@15 : 0.0154    f1@20 : 0.0139    gauc : 0.7048
+Thu 01 Oct 2026 22:52:07 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:52:07 INFO  epoch 47 training [time: 0.20s, train loss: 33.8299]
+Thu 01 Oct 2026 22:52:14 INFO  epoch 47 evaluating [time: 7.06s, valid_score: 0.043700]
+Thu 01 Oct 2026 22:52:14 INFO  valid result: 
+recall@5 : 0.0692    recall@10 : 0.1012    recall@15 : 0.1249    recall@20 : 0.1512    mrr@5 : 0.0393    mrr@10 : 0.0437    mrr@15 : 0.0456    mrr@20 : 0.0471    ndcg@5 : 0.0467    ndcg@10 : 0.0571    ndcg@15 : 0.0634    ndcg@20 : 0.0696    hit@5 : 0.0694    hit@10 : 0.1017    hit@15 : 0.1254    hit@20 : 0.1518    precision@5 : 0.0139    precision@10 : 0.0102    precision@15 : 0.0084    precision@20 : 0.0076    f1@5 : 0.0231    f1@10 : 0.0185    f1@15 : 0.0157    f1@20 : 0.0145    gauc : 0.7072
+Thu 01 Oct 2026 22:52:15 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:52:15 INFO  epoch 48 training [time: 0.20s, train loss: 33.6738]
+Thu 01 Oct 2026 22:52:22 INFO  epoch 48 evaluating [time: 7.06s, valid_score: 0.044600]
+Thu 01 Oct 2026 22:52:22 INFO  valid result: 
+recall@5 : 0.0702    recall@10 : 0.1033    recall@15 : 0.1308    recall@20 : 0.1537    mrr@5 : 0.0402    mrr@10 : 0.0446    mrr@15 : 0.0468    mrr@20 : 0.0481    ndcg@5 : 0.0476    ndcg@10 : 0.0583    ndcg@15 : 0.0655    ndcg@20 : 0.0709    hit@5 : 0.0705    hit@10 : 0.1039    hit@15 : 0.1313    hit@20 : 0.1545    precision@5 : 0.0141    precision@10 : 0.0104    precision@15 : 0.0088    precision@20 : 0.0077    f1@5 : 0.0235    f1@10 : 0.0189    f1@15 : 0.0164    f1@20 : 0.0147    gauc : 0.7095
+Thu 01 Oct 2026 22:52:22 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:52:22 INFO  epoch 49 training [time: 0.20s, train loss: 33.8012]
+Thu 01 Oct 2026 22:52:29 INFO  epoch 49 evaluating [time: 7.05s, valid_score: 0.045100]
+Thu 01 Oct 2026 22:52:29 INFO  valid result: 
+recall@5 : 0.0697    recall@10 : 0.1055    recall@15 : 0.1324    recall@20 : 0.1601    mrr@5 : 0.0402    mrr@10 : 0.0451    mrr@15 : 0.0472    mrr@20 : 0.0487    ndcg@5 : 0.0475    ndcg@10 : 0.0591    ndcg@15 : 0.0662    ndcg@20 : 0.0728    hit@5 : 0.07    hit@10 : 0.106    hit@15 : 0.1329    hit@20 : 0.1609    precision@5 : 0.014    precision@10 : 0.0106    precision@15 : 0.0089    precision@20 : 0.008    f1@5 : 0.0233    f1@10 : 0.0193    f1@15 : 0.0166    f1@20 : 0.0153    gauc : 0.7117
+Thu 01 Oct 2026 22:52:30 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:52:30 INFO  epoch 50 training [time: 0.20s, train loss: 33.5477]
+Thu 01 Oct 2026 22:52:37 INFO  epoch 50 evaluating [time: 7.06s, valid_score: 0.045900]
+Thu 01 Oct 2026 22:52:37 INFO  valid result: 
+recall@5 : 0.0719    recall@10 : 0.1098    recall@15 : 0.1348    recall@20 : 0.1612    mrr@5 : 0.0409    mrr@10 : 0.0459    mrr@15 : 0.0479    mrr@20 : 0.0493    ndcg@5 : 0.0485    ndcg@10 : 0.0607    ndcg@15 : 0.0673    ndcg@20 : 0.0736    hit@5 : 0.0721    hit@10 : 0.1103    hit@15 : 0.1356    hit@20 : 0.162    precision@5 : 0.0144    precision@10 : 0.011    precision@15 : 0.009    precision@20 : 0.0081    f1@5 : 0.024    f1@10 : 0.02    f1@15 : 0.0169    f1@20 : 0.0154    gauc : 0.7137
+Thu 01 Oct 2026 22:52:37 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:52:38 INFO  epoch 51 training [time: 0.20s, train loss: 33.5655]
+Thu 01 Oct 2026 22:52:45 INFO  epoch 51 evaluating [time: 7.05s, valid_score: 0.046300]
+Thu 01 Oct 2026 22:52:45 INFO  valid result: 
+recall@5 : 0.074    recall@10 : 0.1093    recall@15 : 0.1386    recall@20 : 0.1628    mrr@5 : 0.0416    mrr@10 : 0.0463    mrr@15 : 0.0486    mrr@20 : 0.05    ndcg@5 : 0.0496    ndcg@10 : 0.0609    ndcg@15 : 0.0687    ndcg@20 : 0.0744    hit@5 : 0.0743    hit@10 : 0.1098    hit@15 : 0.1394    hit@20 : 0.1636    precision@5 : 0.0149    precision@10 : 0.011    precision@15 : 0.0093    precision@20 : 0.0082    f1@5 : 0.0247    f1@10 : 0.0199    f1@15 : 0.0174    f1@20 : 0.0156    gauc : 0.7158
+Thu 01 Oct 2026 22:52:45 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:52:45 INFO  epoch 52 training [time: 0.20s, train loss: 33.2446]
+Thu 01 Oct 2026 22:52:52 INFO  epoch 52 evaluating [time: 7.08s, valid_score: 0.047400]
+Thu 01 Oct 2026 22:52:52 INFO  valid result: 
+recall@5 : 0.0762    recall@10 : 0.1133    recall@15 : 0.1402    recall@20 : 0.1655    mrr@5 : 0.0425    mrr@10 : 0.0474    mrr@15 : 0.0495    mrr@20 : 0.0509    ndcg@5 : 0.0508    ndcg@10 : 0.0627    ndcg@15 : 0.0698    ndcg@20 : 0.0757    hit@5 : 0.0764    hit@10 : 0.1141    hit@15 : 0.141    hit@20 : 0.1663    precision@5 : 0.0153    precision@10 : 0.0114    precision@15 : 0.0094    precision@20 : 0.0083    f1@5 : 0.0254    f1@10 : 0.0207    f1@15 : 0.0176    f1@20 : 0.0158    gauc : 0.7177
+Thu 01 Oct 2026 22:52:52 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:52:53 INFO  epoch 53 training [time: 0.20s, train loss: 33.0916]
+Thu 01 Oct 2026 22:53:00 INFO  epoch 53 evaluating [time: 7.06s, valid_score: 0.048100]
+Thu 01 Oct 2026 22:53:00 INFO  valid result: 
+recall@5 : 0.0772    recall@10 : 0.1149    recall@15 : 0.1413    recall@20 : 0.1671    mrr@5 : 0.0431    mrr@10 : 0.0481    mrr@15 : 0.0501    mrr@20 : 0.0516    ndcg@5 : 0.0515    ndcg@10 : 0.0636    ndcg@15 : 0.0705    ndcg@20 : 0.0766    hit@5 : 0.0775    hit@10 : 0.1157    hit@15 : 0.1421    hit@20 : 0.1679    precision@5 : 0.0155    precision@10 : 0.0116    precision@15 : 0.0095    precision@20 : 0.0084    f1@5 : 0.0258    f1@10 : 0.021    f1@15 : 0.0177    f1@20 : 0.016    gauc : 0.7195
+Thu 01 Oct 2026 22:53:00 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:53:00 INFO  epoch 54 training [time: 0.20s, train loss: 32.9568]
+Thu 01 Oct 2026 22:53:07 INFO  epoch 54 evaluating [time: 7.04s, valid_score: 0.048700]
+Thu 01 Oct 2026 22:53:07 INFO  valid result: 
+recall@5 : 0.0772    recall@10 : 0.1165    recall@15 : 0.1456    recall@20 : 0.1687    mrr@5 : 0.0435    mrr@10 : 0.0487    mrr@15 : 0.051    mrr@20 : 0.0523    ndcg@5 : 0.0518    ndcg@10 : 0.0644    ndcg@15 : 0.0721    ndcg@20 : 0.0775    hit@5 : 0.0775    hit@10 : 0.1173    hit@15 : 0.1464    hit@20 : 0.1695    precision@5 : 0.0155    precision@10 : 0.0117    precision@15 : 0.0098    precision@20 : 0.0085    f1@5 : 0.0258    f1@10 : 0.0213    f1@15 : 0.0183    f1@20 : 0.0161    gauc : 0.7212
+Thu 01 Oct 2026 22:53:08 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:53:08 INFO  epoch 55 training [time: 0.20s, train loss: 32.8955]
+Thu 01 Oct 2026 22:53:15 INFO  epoch 55 evaluating [time: 7.04s, valid_score: 0.049100]
+Thu 01 Oct 2026 22:53:15 INFO  valid result: 
+recall@5 : 0.0778    recall@10 : 0.1195    recall@15 : 0.1472    recall@20 : 0.1736    mrr@5 : 0.0436    mrr@10 : 0.0491    mrr@15 : 0.0513    mrr@20 : 0.0528    ndcg@5 : 0.052    ndcg@10 : 0.0654    ndcg@15 : 0.0727    ndcg@20 : 0.0789    hit@5 : 0.078    hit@10 : 0.12    hit@15 : 0.148    hit@20 : 0.1744    precision@5 : 0.0156    precision@10 : 0.012    precision@15 : 0.0099    precision@20 : 0.0087    f1@5 : 0.026    f1@10 : 0.0218    f1@15 : 0.0185    f1@20 : 0.0166    gauc : 0.7229
+Thu 01 Oct 2026 22:53:15 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:53:15 INFO  epoch 56 training [time: 0.20s, train loss: 32.7804]
+Thu 01 Oct 2026 22:53:22 INFO  epoch 56 evaluating [time: 7.06s, valid_score: 0.049500]
+Thu 01 Oct 2026 22:53:22 INFO  valid result: 
+recall@5 : 0.0799    recall@10 : 0.1233    recall@15 : 0.1461    recall@20 : 0.1747    mrr@5 : 0.044    mrr@10 : 0.0495    mrr@15 : 0.0513    mrr@20 : 0.0529    ndcg@5 : 0.0528    ndcg@10 : 0.0666    ndcg@15 : 0.0726    ndcg@20 : 0.0793    hit@5 : 0.0802    hit@10 : 0.1238    hit@15 : 0.1469    hit@20 : 0.1755    precision@5 : 0.016    precision@10 : 0.0124    precision@15 : 0.0098    precision@20 : 0.0088    f1@5 : 0.0267    f1@10 : 0.0225    f1@15 : 0.0184    f1@20 : 0.0167    gauc : 0.7244
+Thu 01 Oct 2026 22:53:23 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:53:23 INFO  epoch 57 training [time: 0.20s, train loss: 32.7494]
+Thu 01 Oct 2026 22:53:30 INFO  epoch 57 evaluating [time: 7.05s, valid_score: 0.049800]
+Thu 01 Oct 2026 22:53:30 INFO  valid result: 
+recall@5 : 0.0799    recall@10 : 0.1243    recall@15 : 0.1499    recall@20 : 0.1779    mrr@5 : 0.044    mrr@10 : 0.0498    mrr@15 : 0.0518    mrr@20 : 0.0533    ndcg@5 : 0.0528    ndcg@10 : 0.067    ndcg@15 : 0.0737    ndcg@20 : 0.0803    hit@5 : 0.0802    hit@10 : 0.1249    hit@15 : 0.1507    hit@20 : 0.1787    precision@5 : 0.016    precision@10 : 0.0125    precision@15 : 0.01    precision@20 : 0.0089    f1@5 : 0.0267    f1@10 : 0.0227    f1@15 : 0.0188    f1@20 : 0.017    gauc : 0.7259
+Thu 01 Oct 2026 22:53:30 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:53:30 INFO  epoch 58 training [time: 0.20s, train loss: 32.8028]
+Thu 01 Oct 2026 22:53:37 INFO  epoch 58 evaluating [time: 7.05s, valid_score: 0.049900]
+Thu 01 Oct 2026 22:53:37 INFO  valid result: 
+recall@5 : 0.0799    recall@10 : 0.1249    recall@15 : 0.1515    recall@20 : 0.18    mrr@5 : 0.044    mrr@10 : 0.0499    mrr@15 : 0.052    mrr@20 : 0.0536    ndcg@5 : 0.0528    ndcg@10 : 0.0672    ndcg@15 : 0.0743    ndcg@20 : 0.081    hit@5 : 0.0802    hit@10 : 0.1254    hit@15 : 0.1523    hit@20 : 0.1808    precision@5 : 0.016    precision@10 : 0.0125    precision@15 : 0.0102    precision@20 : 0.009    f1@5 : 0.0267    f1@10 : 0.0228    f1@15 : 0.019    f1@20 : 0.0172    gauc : 0.7272
+Thu 01 Oct 2026 22:53:38 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:53:38 INFO  epoch 59 training [time: 0.20s, train loss: 32.4596]
+Thu 01 Oct 2026 22:53:45 INFO  epoch 59 evaluating [time: 7.05s, valid_score: 0.049700]
+Thu 01 Oct 2026 22:53:45 INFO  valid result: 
+recall@5 : 0.0807    recall@10 : 0.1243    recall@15 : 0.1542    recall@20 : 0.1849    mrr@5 : 0.0439    mrr@10 : 0.0497    mrr@15 : 0.052    mrr@20 : 0.0538    ndcg@5 : 0.0529    ndcg@10 : 0.067    ndcg@15 : 0.0749    ndcg@20 : 0.0821    hit@5 : 0.0813    hit@10 : 0.1249    hit@15 : 0.155    hit@20 : 0.1857    precision@5 : 0.0163    precision@10 : 0.0125    precision@15 : 0.0103    precision@20 : 0.0093    f1@5 : 0.027    f1@10 : 0.0227    f1@15 : 0.0194    f1@20 : 0.0177    gauc : 0.7285
+Thu 01 Oct 2026 22:53:45 INFO  epoch 60 training [time: 0.19s, train loss: 32.4680]
+Thu 01 Oct 2026 22:53:52 INFO  epoch 60 evaluating [time: 7.07s, valid_score: 0.050400]
+Thu 01 Oct 2026 22:53:52 INFO  valid result: 
+recall@5 : 0.0823    recall@10 : 0.1259    recall@15 : 0.1537    recall@20 : 0.1889    mrr@5 : 0.0446    mrr@10 : 0.0504    mrr@15 : 0.0526    mrr@20 : 0.0546    ndcg@5 : 0.0539    ndcg@10 : 0.0679    ndcg@15 : 0.0752    ndcg@20 : 0.0836    hit@5 : 0.0829    hit@10 : 0.1265    hit@15 : 0.1545    hit@20 : 0.19    precision@5 : 0.0166    precision@10 : 0.0126    precision@15 : 0.0103    precision@20 : 0.0095    f1@5 : 0.0276    f1@10 : 0.023    f1@15 : 0.0193    f1@20 : 0.0181    gauc : 0.7298
+Thu 01 Oct 2026 22:53:53 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:53:53 INFO  epoch 61 training [time: 0.20s, train loss: 32.3397]
+Thu 01 Oct 2026 22:54:00 INFO  epoch 61 evaluating [time: 7.05s, valid_score: 0.050500]
+Thu 01 Oct 2026 22:54:00 INFO  valid result: 
+recall@5 : 0.084    recall@10 : 0.127    recall@15 : 0.1569    recall@20 : 0.1905    mrr@5 : 0.0448    mrr@10 : 0.0505    mrr@15 : 0.0528    mrr@20 : 0.0547    ndcg@5 : 0.0544    ndcg@10 : 0.0682    ndcg@15 : 0.0761    ndcg@20 : 0.0841    hit@5 : 0.0845    hit@10 : 0.1276    hit@15 : 0.1577    hit@20 : 0.1916    precision@5 : 0.0169    precision@10 : 0.0128    precision@15 : 0.0105    precision@20 : 0.0096    f1@5 : 0.0281    f1@10 : 0.0232    f1@15 : 0.0197    f1@20 : 0.0182    gauc : 0.7309
+Thu 01 Oct 2026 22:54:00 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:54:00 INFO  epoch 62 training [time: 0.20s, train loss: 32.2304]
+Thu 01 Oct 2026 22:54:07 INFO  epoch 62 evaluating [time: 7.05s, valid_score: 0.050700]
+Thu 01 Oct 2026 22:54:07 INFO  valid result: 
+recall@5 : 0.0834    recall@10 : 0.1265    recall@15 : 0.159    recall@20 : 0.1954    mrr@5 : 0.045    mrr@10 : 0.0507    mrr@15 : 0.0533    mrr@20 : 0.0554    ndcg@5 : 0.0544    ndcg@10 : 0.0683    ndcg@15 : 0.0769    ndcg@20 : 0.0855    hit@5 : 0.084    hit@10 : 0.127    hit@15 : 0.1598    hit@20 : 0.1964    precision@5 : 0.0168    precision@10 : 0.0127    precision@15 : 0.0107    precision@20 : 0.0098    f1@5 : 0.0279    f1@10 : 0.0231    f1@15 : 0.02    f1@20 : 0.0187    gauc : 0.732
+Thu 01 Oct 2026 22:54:08 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:54:08 INFO  epoch 63 training [time: 0.20s, train loss: 32.1434]
+Thu 01 Oct 2026 22:54:15 INFO  epoch 63 evaluating [time: 7.05s, valid_score: 0.051200]
+Thu 01 Oct 2026 22:54:15 INFO  valid result: 
+recall@5 : 0.0829    recall@10 : 0.1265    recall@15 : 0.1612    recall@20 : 0.1989    mrr@5 : 0.0453    mrr@10 : 0.0512    mrr@15 : 0.0539    mrr@20 : 0.056    ndcg@5 : 0.0545    ndcg@10 : 0.0687    ndcg@15 : 0.0778    ndcg@20 : 0.0867    hit@5 : 0.0834    hit@10 : 0.127    hit@15 : 0.162    hit@20 : 0.2002    precision@5 : 0.0167    precision@10 : 0.0127    precision@15 : 0.0108    precision@20 : 0.01    f1@5 : 0.0278    f1@10 : 0.0231    f1@15 : 0.0202    f1@20 : 0.0191    gauc : 0.7331
+Thu 01 Oct 2026 22:54:15 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:54:15 INFO  epoch 64 training [time: 0.20s, train loss: 31.8978]
+Thu 01 Oct 2026 22:54:22 INFO  epoch 64 evaluating [time: 7.05s, valid_score: 0.051600]
+Thu 01 Oct 2026 22:54:22 INFO  valid result: 
+recall@5 : 0.0829    recall@10 : 0.1259    recall@15 : 0.1623    recall@20 : 0.2005    mrr@5 : 0.0457    mrr@10 : 0.0516    mrr@15 : 0.0544    mrr@20 : 0.0566    ndcg@5 : 0.0548    ndcg@10 : 0.0688    ndcg@15 : 0.0785    ndcg@20 : 0.0875    hit@5 : 0.0834    hit@10 : 0.1265    hit@15 : 0.1631    hit@20 : 0.2024    precision@5 : 0.0167    precision@10 : 0.0126    precision@15 : 0.0109    precision@20 : 0.0101    f1@5 : 0.0278    f1@10 : 0.023    f1@15 : 0.0204    f1@20 : 0.0193    gauc : 0.7341
+Thu 01 Oct 2026 22:54:23 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:54:23 INFO  epoch 65 training [time: 0.20s, train loss: 31.9324]
+Thu 01 Oct 2026 22:54:30 INFO  epoch 65 evaluating [time: 7.05s, valid_score: 0.052200]
+Thu 01 Oct 2026 22:54:30 INFO  valid result: 
+recall@5 : 0.0829    recall@10 : 0.1281    recall@15 : 0.166    recall@20 : 0.2037    mrr@5 : 0.0461    mrr@10 : 0.0522    mrr@15 : 0.0552    mrr@20 : 0.0573    ndcg@5 : 0.0551    ndcg@10 : 0.0698    ndcg@15 : 0.0798    ndcg@20 : 0.0887    hit@5 : 0.0834    hit@10 : 0.1286    hit@15 : 0.1668    hit@20 : 0.2056    precision@5 : 0.0167    precision@10 : 0.0129    precision@15 : 0.0111    precision@20 : 0.0103    f1@5 : 0.0278    f1@10 : 0.0234    f1@15 : 0.0208    f1@20 : 0.0196    gauc : 0.735
+Thu 01 Oct 2026 22:54:30 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:54:31 INFO  epoch 66 training [time: 0.20s, train loss: 31.7098]
+Thu 01 Oct 2026 22:54:38 INFO  epoch 66 evaluating [time: 7.05s, valid_score: 0.052800]
+Thu 01 Oct 2026 22:54:38 INFO  valid result: 
+recall@5 : 0.0834    recall@10 : 0.1297    recall@15 : 0.1663    recall@20 : 0.2037    mrr@5 : 0.0466    mrr@10 : 0.0528    mrr@15 : 0.0556    mrr@20 : 0.0578    ndcg@5 : 0.0556    ndcg@10 : 0.0706    ndcg@15 : 0.0802    ndcg@20 : 0.0891    hit@5 : 0.084    hit@10 : 0.1302    hit@15 : 0.1674    hit@20 : 0.2056    precision@5 : 0.0168    precision@10 : 0.013    precision@15 : 0.0112    precision@20 : 0.0103    f1@5 : 0.0279    f1@10 : 0.0237    f1@15 : 0.0209    f1@20 : 0.0196    gauc : 0.7359
+Thu 01 Oct 2026 22:54:38 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:54:38 INFO  epoch 67 training [time: 0.20s, train loss: 31.6436]
+Thu 01 Oct 2026 22:54:45 INFO  epoch 67 evaluating [time: 7.05s, valid_score: 0.053300]
+Thu 01 Oct 2026 22:54:45 INFO  valid result: 
+recall@5 : 0.0856    recall@10 : 0.1308    recall@15 : 0.1698    recall@20 : 0.2026    mrr@5 : 0.0474    mrr@10 : 0.0533    mrr@15 : 0.0564    mrr@20 : 0.0583    ndcg@5 : 0.0567    ndcg@10 : 0.0713    ndcg@15 : 0.0816    ndcg@20 : 0.0894    hit@5 : 0.0861    hit@10 : 0.1313    hit@15 : 0.1712    hit@20 : 0.2045    precision@5 : 0.0172    precision@10 : 0.0131    precision@15 : 0.0114    precision@20 : 0.0102    f1@5 : 0.0287    f1@10 : 0.0239    f1@15 : 0.0214    f1@20 : 0.0195    gauc : 0.7367
+Thu 01 Oct 2026 22:54:45 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:54:46 INFO  epoch 68 training [time: 0.20s, train loss: 31.6306]
+Thu 01 Oct 2026 22:54:53 INFO  epoch 68 evaluating [time: 7.05s, valid_score: 0.053600]
+Thu 01 Oct 2026 22:54:53 INFO  valid result: 
+recall@5 : 0.0856    recall@10 : 0.1308    recall@15 : 0.1709    recall@20 : 0.2043    mrr@5 : 0.0476    mrr@10 : 0.0536    mrr@15 : 0.0569    mrr@20 : 0.0588    ndcg@5 : 0.0569    ndcg@10 : 0.0715    ndcg@15 : 0.0822    ndcg@20 : 0.0901    hit@5 : 0.0861    hit@10 : 0.1313    hit@15 : 0.1722    hit@20 : 0.2061    precision@5 : 0.0172    precision@10 : 0.0131    precision@15 : 0.0115    precision@20 : 0.0103    f1@5 : 0.0287    f1@10 : 0.0239    f1@15 : 0.0215    f1@20 : 0.0196    gauc : 0.7375
+Thu 01 Oct 2026 22:54:53 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:54:53 INFO  epoch 69 training [time: 0.20s, train loss: 31.5276]
+Thu 01 Oct 2026 22:55:00 INFO  epoch 69 evaluating [time: 7.05s, valid_score: 0.053800]
+Thu 01 Oct 2026 22:55:00 INFO  valid result: 
+recall@5 : 0.0872    recall@10 : 0.1335    recall@15 : 0.1714    recall@20 : 0.2059    mrr@5 : 0.0477    mrr@10 : 0.0538    mrr@15 : 0.0568    mrr@20 : 0.0588    ndcg@5 : 0.0574    ndcg@10 : 0.0723    ndcg@15 : 0.0824    ndcg@20 : 0.0905    hit@5 : 0.0877    hit@10 : 0.134    hit@15 : 0.1728    hit@20 : 0.2078    precision@5 : 0.0175    precision@10 : 0.0134    precision@15 : 0.0115    precision@20 : 0.0104    f1@5 : 0.0292    f1@10 : 0.0244    f1@15 : 0.0216    f1@20 : 0.0198    gauc : 0.7383
+Thu 01 Oct 2026 22:55:01 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:55:01 INFO  epoch 70 training [time: 0.20s, train loss: 31.5102]
+Thu 01 Oct 2026 22:55:08 INFO  epoch 70 evaluating [time: 7.05s, valid_score: 0.053700]
+Thu 01 Oct 2026 22:55:08 INFO  valid result: 
+recall@5 : 0.0867    recall@10 : 0.1335    recall@15 : 0.1714    recall@20 : 0.2069    mrr@5 : 0.0475    mrr@10 : 0.0537    mrr@15 : 0.0568    mrr@20 : 0.0588    ndcg@5 : 0.0571    ndcg@10 : 0.0722    ndcg@15 : 0.0823    ndcg@20 : 0.0907    hit@5 : 0.0872    hit@10 : 0.134    hit@15 : 0.1728    hit@20 : 0.2088    precision@5 : 0.0174    precision@10 : 0.0134    precision@15 : 0.0115    precision@20 : 0.0104    f1@5 : 0.029    f1@10 : 0.0244    f1@15 : 0.0216    f1@20 : 0.0199    gauc : 0.7391
+Thu 01 Oct 2026 22:55:08 INFO  epoch 71 training [time: 0.19s, train loss: 31.4497]
+Thu 01 Oct 2026 22:55:15 INFO  epoch 71 evaluating [time: 7.04s, valid_score: 0.054000]
+Thu 01 Oct 2026 22:55:15 INFO  valid result: 
+recall@5 : 0.0888    recall@10 : 0.1343    recall@15 : 0.1725    recall@20 : 0.2069    mrr@5 : 0.0481    mrr@10 : 0.054    mrr@15 : 0.0571    mrr@20 : 0.0591    ndcg@5 : 0.0581    ndcg@10 : 0.0727    ndcg@15 : 0.0828    ndcg@20 : 0.091    hit@5 : 0.0893    hit@10 : 0.1351    hit@15 : 0.1738    hit@20 : 0.2088    precision@5 : 0.0179    precision@10 : 0.0135    precision@15 : 0.0116    precision@20 : 0.0104    f1@5 : 0.0297    f1@10 : 0.0245    f1@15 : 0.0217    f1@20 : 0.0199    gauc : 0.7398
+Thu 01 Oct 2026 22:55:16 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:55:16 INFO  epoch 72 training [time: 0.20s, train loss: 31.3921]
+Thu 01 Oct 2026 22:55:23 INFO  epoch 72 evaluating [time: 7.05s, valid_score: 0.054500]
+Thu 01 Oct 2026 22:55:23 INFO  valid result: 
+recall@5 : 0.0899    recall@10 : 0.137    recall@15 : 0.1736    recall@20 : 0.2064    mrr@5 : 0.0484    mrr@10 : 0.0545    mrr@15 : 0.0574    mrr@20 : 0.0593    ndcg@5 : 0.0586    ndcg@10 : 0.0736    ndcg@15 : 0.0833    ndcg@20 : 0.0911    hit@5 : 0.0904    hit@10 : 0.1378    hit@15 : 0.1749    hit@20 : 0.2083    precision@5 : 0.0181    precision@10 : 0.0138    precision@15 : 0.0117    precision@20 : 0.0104    f1@5 : 0.0301    f1@10 : 0.025    f1@15 : 0.0218    f1@20 : 0.0198    gauc : 0.7405
+Thu 01 Oct 2026 22:55:23 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:55:23 INFO  epoch 73 training [time: 0.20s, train loss: 31.1669]
+Thu 01 Oct 2026 22:55:30 INFO  epoch 73 evaluating [time: 7.05s, valid_score: 0.054500]
+Thu 01 Oct 2026 22:55:30 INFO  valid result: 
+recall@5 : 0.0893    recall@10 : 0.1375    recall@15 : 0.1736    recall@20 : 0.2086    mrr@5 : 0.0482    mrr@10 : 0.0545    mrr@15 : 0.0574    mrr@20 : 0.0594    ndcg@5 : 0.0583    ndcg@10 : 0.0737    ndcg@15 : 0.0833    ndcg@20 : 0.0916    hit@5 : 0.0899    hit@10 : 0.1383    hit@15 : 0.1749    hit@20 : 0.2104    precision@5 : 0.018    precision@10 : 0.0138    precision@15 : 0.0117    precision@20 : 0.0105    f1@5 : 0.0299    f1@10 : 0.0251    f1@15 : 0.0218    f1@20 : 0.02    gauc : 0.7413
+Thu 01 Oct 2026 22:55:31 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:55:31 INFO  epoch 74 training [time: 0.20s, train loss: 31.0800]
+Thu 01 Oct 2026 22:55:38 INFO  epoch 74 evaluating [time: 7.05s, valid_score: 0.054600]
+Thu 01 Oct 2026 22:55:38 INFO  valid result: 
+recall@5 : 0.0893    recall@10 : 0.1381    recall@15 : 0.1752    recall@20 : 0.2091    mrr@5 : 0.0482    mrr@10 : 0.0546    mrr@15 : 0.0576    mrr@20 : 0.0595    ndcg@5 : 0.0583    ndcg@10 : 0.0739    ndcg@15 : 0.0837    ndcg@20 : 0.0918    hit@5 : 0.0899    hit@10 : 0.1389    hit@15 : 0.1765    hit@20 : 0.211    precision@5 : 0.018    precision@10 : 0.0139    precision@15 : 0.0118    precision@20 : 0.0105    f1@5 : 0.0299    f1@10 : 0.0252    f1@15 : 0.022    f1@20 : 0.0201    gauc : 0.742
+Thu 01 Oct 2026 22:55:38 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:55:38 INFO  epoch 75 training [time: 0.20s, train loss: 30.8671]
+Thu 01 Oct 2026 22:55:45 INFO  epoch 75 evaluating [time: 7.04s, valid_score: 0.055000]
+Thu 01 Oct 2026 22:55:45 INFO  valid result: 
+recall@5 : 0.0899    recall@10 : 0.1375    recall@15 : 0.1757    recall@20 : 0.2107    mrr@5 : 0.0487    mrr@10 : 0.055    mrr@15 : 0.058    mrr@20 : 0.06    ndcg@5 : 0.0588    ndcg@10 : 0.0741    ndcg@15 : 0.0842    ndcg@20 : 0.0925    hit@5 : 0.0904    hit@10 : 0.1383    hit@15 : 0.1771    hit@20 : 0.2126    precision@5 : 0.0181    precision@10 : 0.0138    precision@15 : 0.0118    precision@20 : 0.0106    f1@5 : 0.0301    f1@10 : 0.0251    f1@15 : 0.0221    f1@20 : 0.0202    gauc : 0.7427
+Thu 01 Oct 2026 22:55:46 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:55:46 INFO  epoch 76 training [time: 0.20s, train loss: 30.9080]
+Thu 01 Oct 2026 22:55:53 INFO  epoch 76 evaluating [time: 7.04s, valid_score: 0.055400]
+Thu 01 Oct 2026 22:55:53 INFO  valid result: 
+recall@5 : 0.0899    recall@10 : 0.1378    recall@15 : 0.1752    recall@20 : 0.2129    mrr@5 : 0.0491    mrr@10 : 0.0554    mrr@15 : 0.0584    mrr@20 : 0.0605    ndcg@5 : 0.0591    ndcg@10 : 0.0744    ndcg@15 : 0.0844    ndcg@20 : 0.0933    hit@5 : 0.0904    hit@10 : 0.1389    hit@15 : 0.1765    hit@20 : 0.2147    precision@5 : 0.0181    precision@10 : 0.0139    precision@15 : 0.0118    precision@20 : 0.0107    f1@5 : 0.0301    f1@10 : 0.0252    f1@15 : 0.022    f1@20 : 0.0204    gauc : 0.7434
+Thu 01 Oct 2026 22:55:53 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:55:53 INFO  epoch 77 training [time: 0.20s, train loss: 30.8683]
+Thu 01 Oct 2026 22:56:01 INFO  epoch 77 evaluating [time: 7.04s, valid_score: 0.056200]
+Thu 01 Oct 2026 22:56:01 INFO  valid result: 
+recall@5 : 0.0899    recall@10 : 0.1394    recall@15 : 0.1757    recall@20 : 0.2145    mrr@5 : 0.0497    mrr@10 : 0.0562    mrr@15 : 0.0591    mrr@20 : 0.0613    ndcg@5 : 0.0595    ndcg@10 : 0.0753    ndcg@15 : 0.085    ndcg@20 : 0.0941    hit@5 : 0.0904    hit@10 : 0.1405    hit@15 : 0.1771    hit@20 : 0.2164    precision@5 : 0.0181    precision@10 : 0.014    precision@15 : 0.0118    precision@20 : 0.0108    f1@5 : 0.0301    f1@10 : 0.0255    f1@15 : 0.0221    f1@20 : 0.0206    gauc : 0.7441
+Thu 01 Oct 2026 22:56:01 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:56:01 INFO  epoch 78 training [time: 0.20s, train loss: 30.8188]
+Thu 01 Oct 2026 22:56:08 INFO  epoch 78 evaluating [time: 7.04s, valid_score: 0.056100]
+Thu 01 Oct 2026 22:56:08 INFO  valid result: 
+recall@5 : 0.0899    recall@10 : 0.1399    recall@15 : 0.1771    recall@20 : 0.215    mrr@5 : 0.0495    mrr@10 : 0.0561    mrr@15 : 0.0591    mrr@20 : 0.0612    ndcg@5 : 0.0593    ndcg@10 : 0.0754    ndcg@15 : 0.0852    ndcg@20 : 0.0942    hit@5 : 0.0904    hit@10 : 0.141    hit@15 : 0.1787    hit@20 : 0.2169    precision@5 : 0.0181    precision@10 : 0.0141    precision@15 : 0.0119    precision@20 : 0.0108    f1@5 : 0.0301    f1@10 : 0.0256    f1@15 : 0.0223    f1@20 : 0.0206    gauc : 0.7448
+Thu 01 Oct 2026 22:56:08 INFO  epoch 79 training [time: 0.19s, train loss: 30.7708]
+Thu 01 Oct 2026 22:56:15 INFO  epoch 79 evaluating [time: 7.04s, valid_score: 0.056200]
+Thu 01 Oct 2026 22:56:15 INFO  valid result: 
+recall@5 : 0.0904    recall@10 : 0.1389    recall@15 : 0.1763    recall@20 : 0.2145    mrr@5 : 0.0498    mrr@10 : 0.0562    mrr@15 : 0.0592    mrr@20 : 0.0613    ndcg@5 : 0.0596    ndcg@10 : 0.0752    ndcg@15 : 0.0852    ndcg@20 : 0.0942    hit@5 : 0.091    hit@10 : 0.1399    hit@15 : 0.1781    hit@20 : 0.2164    precision@5 : 0.0182    precision@10 : 0.014    precision@15 : 0.0119    precision@20 : 0.0108    f1@5 : 0.0303    f1@10 : 0.0254    f1@15 : 0.0222    f1@20 : 0.0206    gauc : 0.7454
+Thu 01 Oct 2026 22:56:16 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:56:16 INFO  epoch 80 training [time: 0.20s, train loss: 30.7063]
+Thu 01 Oct 2026 22:56:23 INFO  epoch 80 evaluating [time: 7.05s, valid_score: 0.056100]
+Thu 01 Oct 2026 22:56:23 INFO  valid result: 
+recall@5 : 0.0915    recall@10 : 0.1389    recall@15 : 0.1779    recall@20 : 0.2139    mrr@5 : 0.0498    mrr@10 : 0.0561    mrr@15 : 0.0592    mrr@20 : 0.0613    ndcg@5 : 0.06    ndcg@10 : 0.0752    ndcg@15 : 0.0856    ndcg@20 : 0.0941    hit@5 : 0.092    hit@10 : 0.1399    hit@15 : 0.1798    hit@20 : 0.2158    precision@5 : 0.0184    precision@10 : 0.014    precision@15 : 0.012    precision@20 : 0.0108    f1@5 : 0.0306    f1@10 : 0.0254    f1@15 : 0.0224    f1@20 : 0.0205    gauc : 0.7461
+Thu 01 Oct 2026 22:56:23 INFO  epoch 81 training [time: 0.19s, train loss: 30.4925]
+Thu 01 Oct 2026 22:56:30 INFO  epoch 81 evaluating [time: 7.04s, valid_score: 0.056100]
+Thu 01 Oct 2026 22:56:30 INFO  valid result: 
+recall@5 : 0.0915    recall@10 : 0.1389    recall@15 : 0.1784    recall@20 : 0.2145    mrr@5 : 0.0498    mrr@10 : 0.0561    mrr@15 : 0.0593    mrr@20 : 0.0613    ndcg@5 : 0.0599    ndcg@10 : 0.0752    ndcg@15 : 0.0857    ndcg@20 : 0.0943    hit@5 : 0.092    hit@10 : 0.1399    hit@15 : 0.1803    hit@20 : 0.2164    precision@5 : 0.0184    precision@10 : 0.014    precision@15 : 0.012    precision@20 : 0.0108    f1@5 : 0.0306    f1@10 : 0.0254    f1@15 : 0.0225    f1@20 : 0.0206    gauc : 0.7468
+Thu 01 Oct 2026 22:56:30 INFO  epoch 82 training [time: 0.19s, train loss: 30.3948]
+Thu 01 Oct 2026 22:56:37 INFO  epoch 82 evaluating [time: 7.04s, valid_score: 0.056200]
+Thu 01 Oct 2026 22:56:37 INFO  valid result: 
+recall@5 : 0.092    recall@10 : 0.1405    recall@15 : 0.1798    recall@20 : 0.215    mrr@5 : 0.0497    mrr@10 : 0.0562    mrr@15 : 0.0593    mrr@20 : 0.0613    ndcg@5 : 0.06    ndcg@10 : 0.0756    ndcg@15 : 0.086    ndcg@20 : 0.0944    hit@5 : 0.0926    hit@10 : 0.1416    hit@15 : 0.1814    hit@20 : 0.2169    precision@5 : 0.0185    precision@10 : 0.0142    precision@15 : 0.0121    precision@20 : 0.0108    f1@5 : 0.0308    f1@10 : 0.0257    f1@15 : 0.0226    f1@20 : 0.0206    gauc : 0.7474
+Thu 01 Oct 2026 22:56:38 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:56:38 INFO  epoch 83 training [time: 0.20s, train loss: 30.1684]
+Thu 01 Oct 2026 22:56:45 INFO  epoch 83 evaluating [time: 7.04s, valid_score: 0.056200]
+Thu 01 Oct 2026 22:56:45 INFO  valid result: 
+recall@5 : 0.092    recall@10 : 0.1405    recall@15 : 0.18    recall@20 : 0.2161    mrr@5 : 0.0497    mrr@10 : 0.0562    mrr@15 : 0.0593    mrr@20 : 0.0613    ndcg@5 : 0.06    ndcg@10 : 0.0756    ndcg@15 : 0.0861    ndcg@20 : 0.0946    hit@5 : 0.0926    hit@10 : 0.1416    hit@15 : 0.1819    hit@20 : 0.218    precision@5 : 0.0185    precision@10 : 0.0142    precision@15 : 0.0121    precision@20 : 0.0109    f1@5 : 0.0308    f1@10 : 0.0257    f1@15 : 0.0227    f1@20 : 0.0207    gauc : 0.748
+Thu 01 Oct 2026 22:56:45 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:56:45 INFO  epoch 84 training [time: 0.20s, train loss: 30.2054]
+Thu 01 Oct 2026 22:56:52 INFO  epoch 84 evaluating [time: 7.06s, valid_score: 0.056300]
+Thu 01 Oct 2026 22:56:52 INFO  valid result: 
+recall@5 : 0.092    recall@10 : 0.1405    recall@15 : 0.18    recall@20 : 0.2166    mrr@5 : 0.0497    mrr@10 : 0.0563    mrr@15 : 0.0594    mrr@20 : 0.0615    ndcg@5 : 0.06    ndcg@10 : 0.0757    ndcg@15 : 0.0862    ndcg@20 : 0.0949    hit@5 : 0.0926    hit@10 : 0.1416    hit@15 : 0.1819    hit@20 : 0.2185    precision@5 : 0.0185    precision@10 : 0.0142    precision@15 : 0.0121    precision@20 : 0.0109    f1@5 : 0.0308    f1@10 : 0.0257    f1@15 : 0.0227    f1@20 : 0.0208    gauc : 0.7486
+Thu 01 Oct 2026 22:56:53 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:56:53 INFO  epoch 85 training [time: 0.20s, train loss: 30.1520]
+Thu 01 Oct 2026 22:57:00 INFO  epoch 85 evaluating [time: 7.04s, valid_score: 0.056300]
+Thu 01 Oct 2026 22:57:00 INFO  valid result: 
+recall@5 : 0.0936    recall@10 : 0.1405    recall@15 : 0.18    recall@20 : 0.2177    mrr@5 : 0.05    mrr@10 : 0.0563    mrr@15 : 0.0594    mrr@20 : 0.0616    ndcg@5 : 0.0606    ndcg@10 : 0.0757    ndcg@15 : 0.0863    ndcg@20 : 0.0951    hit@5 : 0.0942    hit@10 : 0.1416    hit@15 : 0.1819    hit@20 : 0.2196    precision@5 : 0.0188    precision@10 : 0.0142    precision@15 : 0.0121    precision@20 : 0.011    f1@5 : 0.0313    f1@10 : 0.0257    f1@15 : 0.0227    f1@20 : 0.0209    gauc : 0.7493
+Thu 01 Oct 2026 22:57:00 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:57:00 INFO  epoch 86 training [time: 0.20s, train loss: 29.9991]
+Thu 01 Oct 2026 22:57:07 INFO  epoch 86 evaluating [time: 7.05s, valid_score: 0.056400]
+Thu 01 Oct 2026 22:57:07 INFO  valid result: 
+recall@5 : 0.0942    recall@10 : 0.1405    recall@15 : 0.1806    recall@20 : 0.2156    mrr@5 : 0.0502    mrr@10 : 0.0564    mrr@15 : 0.0596    mrr@20 : 0.0616    ndcg@5 : 0.0608    ndcg@10 : 0.0758    ndcg@15 : 0.0864    ndcg@20 : 0.0947    hit@5 : 0.0947    hit@10 : 0.1416    hit@15 : 0.1825    hit@20 : 0.2174    precision@5 : 0.0189    precision@10 : 0.0142    precision@15 : 0.0122    precision@20 : 0.0109    f1@5 : 0.0315    f1@10 : 0.0257    f1@15 : 0.0228    f1@20 : 0.0207    gauc : 0.7499
+Thu 01 Oct 2026 22:57:08 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:57:08 INFO  epoch 87 training [time: 0.20s, train loss: 30.1207]
+Thu 01 Oct 2026 22:57:15 INFO  epoch 87 evaluating [time: 7.04s, valid_score: 0.056400]
+Thu 01 Oct 2026 22:57:15 INFO  valid result: 
+recall@5 : 0.0942    recall@10 : 0.141    recall@15 : 0.1822    recall@20 : 0.2156    mrr@5 : 0.0501    mrr@10 : 0.0564    mrr@15 : 0.0596    mrr@20 : 0.0615    ndcg@5 : 0.0608    ndcg@10 : 0.0759    ndcg@15 : 0.0868    ndcg@20 : 0.0947    hit@5 : 0.0947    hit@10 : 0.1421    hit@15 : 0.1841    hit@20 : 0.2174    precision@5 : 0.0189    precision@10 : 0.0142    precision@15 : 0.0123    precision@20 : 0.0109    f1@5 : 0.0315    f1@10 : 0.0258    f1@15 : 0.023    f1@20 : 0.0207    gauc : 0.7505
+Thu 01 Oct 2026 22:57:15 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:57:16 INFO  epoch 88 training [time: 0.20s, train loss: 29.9098]
+Thu 01 Oct 2026 22:57:23 INFO  epoch 88 evaluating [time: 7.04s, valid_score: 0.056800]
+Thu 01 Oct 2026 22:57:23 INFO  valid result: 
+recall@5 : 0.0947    recall@10 : 0.141    recall@15 : 0.1822    recall@20 : 0.2161    mrr@5 : 0.0506    mrr@10 : 0.0568    mrr@15 : 0.0601    mrr@20 : 0.062    ndcg@5 : 0.0613    ndcg@10 : 0.0762    ndcg@15 : 0.0872    ndcg@20 : 0.0952    hit@5 : 0.0953    hit@10 : 0.1421    hit@15 : 0.1841    hit@20 : 0.218    precision@5 : 0.0191    precision@10 : 0.0142    precision@15 : 0.0123    precision@20 : 0.0109    f1@5 : 0.0317    f1@10 : 0.0258    f1@15 : 0.023    f1@20 : 0.0207    gauc : 0.7511
+Thu 01 Oct 2026 22:57:23 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:57:23 INFO  epoch 89 training [time: 0.20s, train loss: 29.9087]
+Thu 01 Oct 2026 22:57:30 INFO  epoch 89 evaluating [time: 7.05s, valid_score: 0.057400]
+Thu 01 Oct 2026 22:57:30 INFO  valid result: 
+recall@5 : 0.0942    recall@10 : 0.1426    recall@15 : 0.1827    recall@20 : 0.2166    mrr@5 : 0.0509    mrr@10 : 0.0574    mrr@15 : 0.0607    mrr@20 : 0.0626    ndcg@5 : 0.0614    ndcg@10 : 0.0771    ndcg@15 : 0.0877    ndcg@20 : 0.0957    hit@5 : 0.0947    hit@10 : 0.1437    hit@15 : 0.1846    hit@20 : 0.2185    precision@5 : 0.0189    precision@10 : 0.0144    precision@15 : 0.0123    precision@20 : 0.0109    f1@5 : 0.0315    f1@10 : 0.0261    f1@15 : 0.023    f1@20 : 0.0208    gauc : 0.7517
+Thu 01 Oct 2026 22:57:30 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:57:31 INFO  epoch 90 training [time: 0.20s, train loss: 29.7324]
+Thu 01 Oct 2026 22:57:38 INFO  epoch 90 evaluating [time: 7.04s, valid_score: 0.057600]
+Thu 01 Oct 2026 22:57:38 INFO  valid result: 
+recall@5 : 0.0947    recall@10 : 0.1437    recall@15 : 0.1827    recall@20 : 0.2177    mrr@5 : 0.051    mrr@10 : 0.0576    mrr@15 : 0.0608    mrr@20 : 0.0627    ndcg@5 : 0.0616    ndcg@10 : 0.0774    ndcg@15 : 0.0879    ndcg@20 : 0.0961    hit@5 : 0.0953    hit@10 : 0.1448    hit@15 : 0.1846    hit@20 : 0.2196    precision@5 : 0.0191    precision@10 : 0.0145    precision@15 : 0.0123    precision@20 : 0.011    f1@5 : 0.0317    f1@10 : 0.0263    f1@15 : 0.023    f1@20 : 0.0209    gauc : 0.7522
+Thu 01 Oct 2026 22:57:38 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:57:38 INFO  epoch 91 training [time: 0.20s, train loss: 29.8597]
+Thu 01 Oct 2026 22:57:45 INFO  epoch 91 evaluating [time: 7.04s, valid_score: 0.057900]
+Thu 01 Oct 2026 22:57:45 INFO  valid result: 
+recall@5 : 0.0947    recall@10 : 0.1442    recall@15 : 0.1822    recall@20 : 0.2188    mrr@5 : 0.0512    mrr@10 : 0.0579    mrr@15 : 0.0609    mrr@20 : 0.063    ndcg@5 : 0.0618    ndcg@10 : 0.0778    ndcg@15 : 0.0879    ndcg@20 : 0.0965    hit@5 : 0.0953    hit@10 : 0.1453    hit@15 : 0.1841    hit@20 : 0.2207    precision@5 : 0.0191    precision@10 : 0.0145    precision@15 : 0.0123    precision@20 : 0.011    f1@5 : 0.0317    f1@10 : 0.0264    f1@15 : 0.023    f1@20 : 0.021    gauc : 0.7529
+Thu 01 Oct 2026 22:57:46 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:57:46 INFO  epoch 92 training [time: 0.20s, train loss: 29.5992]
+Thu 01 Oct 2026 22:57:53 INFO  epoch 92 evaluating [time: 7.04s, valid_score: 0.058300]
+Thu 01 Oct 2026 22:57:53 INFO  valid result: 
+recall@5 : 0.0958    recall@10 : 0.1459    recall@15 : 0.1833    recall@20 : 0.2188    mrr@5 : 0.0517    mrr@10 : 0.0583    mrr@15 : 0.0613    mrr@20 : 0.0633    ndcg@5 : 0.0623    ndcg@10 : 0.0785    ndcg@15 : 0.0884    ndcg@20 : 0.0968    hit@5 : 0.0963    hit@10 : 0.1469    hit@15 : 0.1851    hit@20 : 0.2207    precision@5 : 0.0193    precision@10 : 0.0147    precision@15 : 0.0123    precision@20 : 0.011    f1@5 : 0.0321    f1@10 : 0.0267    f1@15 : 0.0231    f1@20 : 0.021    gauc : 0.7535
+Thu 01 Oct 2026 22:57:53 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:57:53 INFO  epoch 93 training [time: 0.20s, train loss: 29.5419]
+Thu 01 Oct 2026 22:58:00 INFO  epoch 93 evaluating [time: 7.03s, valid_score: 0.058200]
+Thu 01 Oct 2026 22:58:00 INFO  valid result: 
+recall@5 : 0.0958    recall@10 : 0.1469    recall@15 : 0.1833    recall@20 : 0.2193    mrr@5 : 0.0514    mrr@10 : 0.0582    mrr@15 : 0.0611    mrr@20 : 0.0631    ndcg@5 : 0.0621    ndcg@10 : 0.0786    ndcg@15 : 0.0883    ndcg@20 : 0.0968    hit@5 : 0.0963    hit@10 : 0.148    hit@15 : 0.1851    hit@20 : 0.2212    precision@5 : 0.0193    precision@10 : 0.0148    precision@15 : 0.0123    precision@20 : 0.0111    f1@5 : 0.0321    f1@10 : 0.0269    f1@15 : 0.0231    f1@20 : 0.0211    gauc : 0.754
+Thu 01 Oct 2026 22:58:00 INFO  epoch 94 training [time: 0.19s, train loss: 29.6092]
+Thu 01 Oct 2026 22:58:07 INFO  epoch 94 evaluating [time: 7.02s, valid_score: 0.058400]
+Thu 01 Oct 2026 22:58:07 INFO  valid result: 
+recall@5 : 0.0958    recall@10 : 0.148    recall@15 : 0.1849    recall@20 : 0.2193    mrr@5 : 0.0514    mrr@10 : 0.0584    mrr@15 : 0.0613    mrr@20 : 0.0632    ndcg@5 : 0.0622    ndcg@10 : 0.079    ndcg@15 : 0.0887    ndcg@20 : 0.0969    hit@5 : 0.0963    hit@10 : 0.1491    hit@15 : 0.1868    hit@20 : 0.2212    precision@5 : 0.0193    precision@10 : 0.0149    precision@15 : 0.0125    precision@20 : 0.0111    f1@5 : 0.0321    f1@10 : 0.0271    f1@15 : 0.0233    f1@20 : 0.0211    gauc : 0.7546
+Thu 01 Oct 2026 22:58:08 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:58:08 INFO  epoch 95 training [time: 0.20s, train loss: 29.5600]
+Thu 01 Oct 2026 22:58:15 INFO  epoch 95 evaluating [time: 7.03s, valid_score: 0.058900]
+Thu 01 Oct 2026 22:58:15 INFO  valid result: 
+recall@5 : 0.0969    recall@10 : 0.1491    recall@15 : 0.1846    recall@20 : 0.2209    mrr@5 : 0.052    mrr@10 : 0.0589    mrr@15 : 0.0617    mrr@20 : 0.0638    ndcg@5 : 0.0629    ndcg@10 : 0.0797    ndcg@15 : 0.0891    ndcg@20 : 0.0976    hit@5 : 0.0974    hit@10 : 0.1502    hit@15 : 0.1862    hit@20 : 0.2228    precision@5 : 0.0195    precision@10 : 0.015    precision@15 : 0.0124    precision@20 : 0.0111    f1@5 : 0.0324    f1@10 : 0.0273    f1@15 : 0.0233    f1@20 : 0.0212    gauc : 0.7553
+Thu 01 Oct 2026 22:58:15 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:58:16 INFO  epoch 96 training [time: 0.20s, train loss: 29.4452]
+Thu 01 Oct 2026 22:58:23 INFO  epoch 96 evaluating [time: 7.15s, valid_score: 0.059100]
+Thu 01 Oct 2026 22:58:23 INFO  valid result: 
+recall@5 : 0.0971    recall@10 : 0.1491    recall@15 : 0.1851    recall@20 : 0.2215    mrr@5 : 0.0522    mrr@10 : 0.0591    mrr@15 : 0.062    mrr@20 : 0.064    ndcg@5 : 0.0631    ndcg@10 : 0.0798    ndcg@15 : 0.0894    ndcg@20 : 0.0979    hit@5 : 0.098    hit@10 : 0.1502    hit@15 : 0.1868    hit@20 : 0.2234    precision@5 : 0.0196    precision@10 : 0.015    precision@15 : 0.0125    precision@20 : 0.0112    f1@5 : 0.0326    f1@10 : 0.0273    f1@15 : 0.0233    f1@20 : 0.0213    gauc : 0.7559
+Thu 01 Oct 2026 22:58:23 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:58:23 INFO  epoch 97 training [time: 0.20s, train loss: 29.3194]
+Thu 01 Oct 2026 22:58:30 INFO  epoch 97 evaluating [time: 7.12s, valid_score: 0.059800]
+Thu 01 Oct 2026 22:58:30 INFO  valid result: 
+recall@5 : 0.0971    recall@10 : 0.1496    recall@15 : 0.1857    recall@20 : 0.2231    mrr@5 : 0.0528    mrr@10 : 0.0598    mrr@15 : 0.0627    mrr@20 : 0.0648    ndcg@5 : 0.0636    ndcg@10 : 0.0805    ndcg@15 : 0.0901    ndcg@20 : 0.0989    hit@5 : 0.098    hit@10 : 0.1507    hit@15 : 0.1873    hit@20 : 0.225    precision@5 : 0.0196    precision@10 : 0.0151    precision@15 : 0.0125    precision@20 : 0.0112    f1@5 : 0.0326    f1@10 : 0.0274    f1@15 : 0.0234    f1@20 : 0.0214    gauc : 0.7565
+Thu 01 Oct 2026 22:58:31 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:58:31 INFO  epoch 98 training [time: 0.20s, train loss: 29.2583]
+Thu 01 Oct 2026 22:58:38 INFO  epoch 98 evaluating [time: 7.12s, valid_score: 0.060300]
+Thu 01 Oct 2026 22:58:38 INFO  valid result: 
+recall@5 : 0.0977    recall@10 : 0.1512    recall@15 : 0.1873    recall@20 : 0.2226    mrr@5 : 0.0532    mrr@10 : 0.0603    mrr@15 : 0.0631    mrr@20 : 0.0651    ndcg@5 : 0.064    ndcg@10 : 0.0812    ndcg@15 : 0.0907    ndcg@20 : 0.099    hit@5 : 0.0985    hit@10 : 0.1523    hit@15 : 0.1889    hit@20 : 0.2244    precision@5 : 0.0197    precision@10 : 0.0152    precision@15 : 0.0126    precision@20 : 0.0112    f1@5 : 0.0328    f1@10 : 0.0277    f1@15 : 0.0236    f1@20 : 0.0214    gauc : 0.7571
+Thu 01 Oct 2026 22:58:38 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:58:38 INFO  epoch 99 training [time: 0.20s, train loss: 29.3256]
+Thu 01 Oct 2026 22:58:46 INFO  epoch 99 evaluating [time: 7.12s, valid_score: 0.060500]
+Thu 01 Oct 2026 22:58:46 INFO  valid result: 
+recall@5 : 0.0971    recall@10 : 0.1518    recall@15 : 0.1878    recall@20 : 0.2226    mrr@5 : 0.0532    mrr@10 : 0.0605    mrr@15 : 0.0633    mrr@20 : 0.0652    ndcg@5 : 0.0639    ndcg@10 : 0.0815    ndcg@15 : 0.091    ndcg@20 : 0.0991    hit@5 : 0.098    hit@10 : 0.1529    hit@15 : 0.1895    hit@20 : 0.2244    precision@5 : 0.0196    precision@10 : 0.0153    precision@15 : 0.0126    precision@20 : 0.0112    f1@5 : 0.0326    f1@10 : 0.0278    f1@15 : 0.0237    f1@20 : 0.0214    gauc : 0.7577
+Thu 01 Oct 2026 22:58:46 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:58:46 INFO  epoch 100 training [time: 0.20s, train loss: 29.2202]
+Thu 01 Oct 2026 22:58:53 INFO  epoch 100 evaluating [time: 7.12s, valid_score: 0.060500]
+Thu 01 Oct 2026 22:58:53 INFO  valid result: 
+recall@5 : 0.0971    recall@10 : 0.1529    recall@15 : 0.1878    recall@20 : 0.2236    mrr@5 : 0.0532    mrr@10 : 0.0605    mrr@15 : 0.0633    mrr@20 : 0.0653    ndcg@5 : 0.0638    ndcg@10 : 0.0818    ndcg@15 : 0.091    ndcg@20 : 0.0994    hit@5 : 0.098    hit@10 : 0.1539    hit@15 : 0.1895    hit@20 : 0.2255    precision@5 : 0.0196    precision@10 : 0.0154    precision@15 : 0.0126    precision@20 : 0.0113    f1@5 : 0.0326    f1@10 : 0.028    f1@15 : 0.0237    f1@20 : 0.0215    gauc : 0.7583
+Thu 01 Oct 2026 22:58:53 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:58:54 INFO  epoch 101 training [time: 0.20s, train loss: 29.0630]
+Thu 01 Oct 2026 22:59:01 INFO  epoch 101 evaluating [time: 7.12s, valid_score: 0.060800]
+Thu 01 Oct 2026 22:59:01 INFO  valid result: 
+recall@5 : 0.0966    recall@10 : 0.1537    recall@15 : 0.1878    recall@20 : 0.2242    mrr@5 : 0.0531    mrr@10 : 0.0608    mrr@15 : 0.0634    mrr@20 : 0.0654    ndcg@5 : 0.0637    ndcg@10 : 0.0821    ndcg@15 : 0.0911    ndcg@20 : 0.0996    hit@5 : 0.0974    hit@10 : 0.155    hit@15 : 0.1895    hit@20 : 0.226    precision@5 : 0.0195    precision@10 : 0.0155    precision@15 : 0.0126    precision@20 : 0.0113    f1@5 : 0.0324    f1@10 : 0.0281    f1@15 : 0.0237    f1@20 : 0.0215    gauc : 0.7589
+Thu 01 Oct 2026 22:59:01 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:59:01 INFO  epoch 102 training [time: 0.20s, train loss: 29.0476]
+Thu 01 Oct 2026 22:59:08 INFO  epoch 102 evaluating [time: 7.12s, valid_score: 0.060900]
+Thu 01 Oct 2026 22:59:08 INFO  valid result: 
+recall@5 : 0.0966    recall@10 : 0.1542    recall@15 : 0.1878    recall@20 : 0.2242    mrr@5 : 0.0531    mrr@10 : 0.0609    mrr@15 : 0.0635    mrr@20 : 0.0655    ndcg@5 : 0.0637    ndcg@10 : 0.0823    ndcg@15 : 0.0912    ndcg@20 : 0.0997    hit@5 : 0.0974    hit@10 : 0.1555    hit@15 : 0.1895    hit@20 : 0.226    precision@5 : 0.0195    precision@10 : 0.0156    precision@15 : 0.0126    precision@20 : 0.0113    f1@5 : 0.0324    f1@10 : 0.0282    f1@15 : 0.0237    f1@20 : 0.0215    gauc : 0.7595
+Thu 01 Oct 2026 22:59:09 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:59:09 INFO  epoch 103 training [time: 0.20s, train loss: 28.8670]
+Thu 01 Oct 2026 22:59:16 INFO  epoch 103 evaluating [time: 7.13s, valid_score: 0.061000]
+Thu 01 Oct 2026 22:59:16 INFO  valid result: 
+recall@5 : 0.0971    recall@10 : 0.1542    recall@15 : 0.1889    recall@20 : 0.2242    mrr@5 : 0.0534    mrr@10 : 0.061    mrr@15 : 0.0637    mrr@20 : 0.0657    ndcg@5 : 0.064    ndcg@10 : 0.0824    ndcg@15 : 0.0916    ndcg@20 : 0.0999    hit@5 : 0.098    hit@10 : 0.1555    hit@15 : 0.1905    hit@20 : 0.226    precision@5 : 0.0196    precision@10 : 0.0156    precision@15 : 0.0127    precision@20 : 0.0113    f1@5 : 0.0326    f1@10 : 0.0282    f1@15 : 0.0238    f1@20 : 0.0215    gauc : 0.7601
+Thu 01 Oct 2026 22:59:16 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:59:17 INFO  epoch 104 training [time: 0.20s, train loss: 29.0790]
+Thu 01 Oct 2026 22:59:24 INFO  epoch 104 evaluating [time: 7.12s, valid_score: 0.061000]
+Thu 01 Oct 2026 22:59:24 INFO  valid result: 
+recall@5 : 0.0977    recall@10 : 0.1537    recall@15 : 0.1895    recall@20 : 0.2252    mrr@5 : 0.0534    mrr@10 : 0.061    mrr@15 : 0.0638    mrr@20 : 0.0658    ndcg@5 : 0.0641    ndcg@10 : 0.0823    ndcg@15 : 0.0917    ndcg@20 : 0.1002    hit@5 : 0.0985    hit@10 : 0.155    hit@15 : 0.1911    hit@20 : 0.2271    precision@5 : 0.0197    precision@10 : 0.0155    precision@15 : 0.0127    precision@20 : 0.0114    f1@5 : 0.0328    f1@10 : 0.0281    f1@15 : 0.0239    f1@20 : 0.0216    gauc : 0.7608
+Thu 01 Oct 2026 22:59:24 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:59:24 INFO  epoch 105 training [time: 0.20s, train loss: 28.9141]
+Thu 01 Oct 2026 22:59:31 INFO  epoch 105 evaluating [time: 7.12s, valid_score: 0.061200]
+Thu 01 Oct 2026 22:59:31 INFO  valid result: 
+recall@5 : 0.098    recall@10 : 0.1542    recall@15 : 0.1911    recall@20 : 0.2252    mrr@5 : 0.0536    mrr@10 : 0.0612    mrr@15 : 0.0641    mrr@20 : 0.066    ndcg@5 : 0.0643    ndcg@10 : 0.0826    ndcg@15 : 0.0923    ndcg@20 : 0.1003    hit@5 : 0.099    hit@10 : 0.1555    hit@15 : 0.1927    hit@20 : 0.2271    precision@5 : 0.0198    precision@10 : 0.0156    precision@15 : 0.0128    precision@20 : 0.0114    f1@5 : 0.0329    f1@10 : 0.0282    f1@15 : 0.0241    f1@20 : 0.0216    gauc : 0.7614
+Thu 01 Oct 2026 22:59:32 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:59:32 INFO  epoch 106 training [time: 0.20s, train loss: 28.7024]
+Thu 01 Oct 2026 22:59:39 INFO  epoch 106 evaluating [time: 7.12s, valid_score: 0.061200]
+Thu 01 Oct 2026 22:59:39 INFO  valid result: 
+recall@5 : 0.098    recall@10 : 0.1542    recall@15 : 0.19    recall@20 : 0.2252    mrr@5 : 0.0537    mrr@10 : 0.0612    mrr@15 : 0.064    mrr@20 : 0.066    ndcg@5 : 0.0644    ndcg@10 : 0.0826    ndcg@15 : 0.0921    ndcg@20 : 0.1004    hit@5 : 0.099    hit@10 : 0.1555    hit@15 : 0.1916    hit@20 : 0.2271    precision@5 : 0.0198    precision@10 : 0.0156    precision@15 : 0.0128    precision@20 : 0.0114    f1@5 : 0.0329    f1@10 : 0.0282    f1@15 : 0.0239    f1@20 : 0.0216    gauc : 0.762
+Thu 01 Oct 2026 22:59:39 INFO  Saving current: saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 22:59:39 INFO  epoch 107 training [time: 0.20s, train loss: 28.8505]
+Thu 01 Oct 2026 22:59:47 INFO  epoch 107 evaluating [time: 7.14s, valid_score: 0.060600]
+Thu 01 Oct 2026 22:59:47 INFO  valid result: 
+recall@5 : 0.099    recall@10 : 0.1547    recall@15 : 0.1905    recall@20 : 0.2258    mrr@5 : 0.0532    mrr@10 : 0.0606    mrr@15 : 0.0635    mrr@20 : 0.0655    ndcg@5 : 0.0643    ndcg@10 : 0.0823    ndcg@15 : 0.0918    ndcg@20 : 0.1001    hit@5 : 0.1001    hit@10 : 0.1561    hit@15 : 0.1921    hit@20 : 0.2277    precision@5 : 0.02    precision@10 : 0.0156    precision@15 : 0.0128    precision@20 : 0.0114    f1@5 : 0.0333    f1@10 : 0.0283    f1@15 : 0.024    f1@20 : 0.0217    gauc : 0.7626
+Thu 01 Oct 2026 22:59:47 INFO  epoch 108 training [time: 0.19s, train loss: 28.6177]
+Thu 01 Oct 2026 22:59:54 INFO  epoch 108 evaluating [time: 7.12s, valid_score: 0.060400]
+Thu 01 Oct 2026 22:59:54 INFO  valid result: 
+recall@5 : 0.099    recall@10 : 0.1547    recall@15 : 0.1905    recall@20 : 0.2258    mrr@5 : 0.053    mrr@10 : 0.0604    mrr@15 : 0.0633    mrr@20 : 0.0653    ndcg@5 : 0.0641    ndcg@10 : 0.0821    ndcg@15 : 0.0916    ndcg@20 : 0.1    hit@5 : 0.1001    hit@10 : 0.1561    hit@15 : 0.1921    hit@20 : 0.2277    precision@5 : 0.02    precision@10 : 0.0156    precision@15 : 0.0128    precision@20 : 0.0114    f1@5 : 0.0333    f1@10 : 0.0283    f1@15 : 0.024    f1@20 : 0.0217    gauc : 0.7632
+Thu 01 Oct 2026 22:59:54 INFO  epoch 109 training [time: 0.19s, train loss: 28.5990]
+Thu 01 Oct 2026 23:00:01 INFO  epoch 109 evaluating [time: 7.12s, valid_score: 0.060600]
+Thu 01 Oct 2026 23:00:01 INFO  valid result: 
+recall@5 : 0.099    recall@10 : 0.1547    recall@15 : 0.1921    recall@20 : 0.2263    mrr@5 : 0.0531    mrr@10 : 0.0606    mrr@15 : 0.0635    mrr@20 : 0.0654    ndcg@5 : 0.0642    ndcg@10 : 0.0822    ndcg@15 : 0.0921    ndcg@20 : 0.1002    hit@5 : 0.1001    hit@10 : 0.1561    hit@15 : 0.1938    hit@20 : 0.2282    precision@5 : 0.02    precision@10 : 0.0156    precision@15 : 0.0129    precision@20 : 0.0114    f1@5 : 0.0333    f1@10 : 0.0283    f1@15 : 0.0242    f1@20 : 0.0217    gauc : 0.7638
+Thu 01 Oct 2026 23:00:01 INFO  epoch 110 training [time: 0.19s, train loss: 28.5432]
+Thu 01 Oct 2026 23:00:08 INFO  epoch 110 evaluating [time: 7.13s, valid_score: 0.060700]
+Thu 01 Oct 2026 23:00:08 INFO  valid result: 
+recall@5 : 0.0996    recall@10 : 0.1558    recall@15 : 0.1924    recall@20 : 0.2269    mrr@5 : 0.0532    mrr@10 : 0.0607    mrr@15 : 0.0636    mrr@20 : 0.0656    ndcg@5 : 0.0644    ndcg@10 : 0.0826    ndcg@15 : 0.0923    ndcg@20 : 0.1004    hit@5 : 0.1006    hit@10 : 0.1572    hit@15 : 0.1943    hit@20 : 0.2287    precision@5 : 0.0201    precision@10 : 0.0157    precision@15 : 0.013    precision@20 : 0.0114    f1@5 : 0.0334    f1@10 : 0.0285    f1@15 : 0.0243    f1@20 : 0.0218    gauc : 0.7644
+Thu 01 Oct 2026 23:00:09 INFO  epoch 111 training [time: 0.19s, train loss: 28.4594]
+Thu 01 Oct 2026 23:00:16 INFO  epoch 111 evaluating [time: 7.11s, valid_score: 0.060700]
+Thu 01 Oct 2026 23:00:16 INFO  valid result: 
+recall@5 : 0.0985    recall@10 : 0.1564    recall@15 : 0.1924    recall@20 : 0.2263    mrr@5 : 0.0529    mrr@10 : 0.0607    mrr@15 : 0.0636    mrr@20 : 0.0655    ndcg@5 : 0.064    ndcg@10 : 0.0827    ndcg@15 : 0.0923    ndcg@20 : 0.1003    hit@5 : 0.0996    hit@10 : 0.1577    hit@15 : 0.1943    hit@20 : 0.2282    precision@5 : 0.0199    precision@10 : 0.0158    precision@15 : 0.013    precision@20 : 0.0114    f1@5 : 0.0331    f1@10 : 0.0286    f1@15 : 0.0243    f1@20 : 0.0217    gauc : 0.765
+Thu 01 Oct 2026 23:00:16 INFO  epoch 112 training [time: 0.19s, train loss: 28.4893]
+Thu 01 Oct 2026 23:00:23 INFO  epoch 112 evaluating [time: 7.13s, valid_score: 0.061000]
+Thu 01 Oct 2026 23:00:23 INFO  valid result: 
+recall@5 : 0.0985    recall@10 : 0.1564    recall@15 : 0.1919    recall@20 : 0.2266    mrr@5 : 0.0532    mrr@10 : 0.061    mrr@15 : 0.0638    mrr@20 : 0.0658    ndcg@5 : 0.0642    ndcg@10 : 0.083    ndcg@15 : 0.0924    ndcg@20 : 0.1006    hit@5 : 0.0996    hit@10 : 0.1577    hit@15 : 0.1938    hit@20 : 0.2287    precision@5 : 0.0199    precision@10 : 0.0158    precision@15 : 0.0129    precision@20 : 0.0114    f1@5 : 0.0331    f1@10 : 0.0286    f1@15 : 0.0242    f1@20 : 0.0218    gauc : 0.7656
+Thu 01 Oct 2026 23:00:23 INFO  Finished training, best eval result in epoch 106
+Thu 01 Oct 2026 23:00:23 INFO  Loading model structure and parameters from saved/DiffRec-Oct-01-2026_22-46-09.pth
+Thu 01 Oct 2026 23:00:31 INFO  The running environment of this training is as follows:
++-------------+-----------------+
+| Environment |      Usage      |
++=============+=================+
+| CPU         |     0.20 %      |
++-------------+-----------------+
+| GPU         | 0.26 G/31.74 G  |
++-------------+-----------------+
+| Memory      | 2.03 G/503.38 G |
++-------------+-----------------+
+Thu 01 Oct 2026 23:00:31 INFO  best valid : OrderedDict([('recall@5', 0.098), ('recall@10', 0.1542), ('recall@15', 0.19), ('recall@20', 0.2252), ('mrr@5', 0.0537), ('mrr@10', 0.0612), ('mrr@15', 0.064), ('mrr@20', 0.066), ('ndcg@5', 0.0644), ('ndcg@10', 0.0826), ('ndcg@15', 0.0921), ('ndcg@20', 0.1004), ('hit@5', 0.099), ('hit@10', 0.1555), ('hit@15', 0.1916), ('hit@20', 0.2271), ('precision@5', 0.0198), ('precision@10', 0.0156), ('precision@15', 0.0128), ('precision@20', 0.0114), ('f1@5', 0.0329), ('f1@10', 0.0282), ('f1@15', 0.0239), ('f1@20', 0.0216), ('gauc', 0.762)])
+Thu 01 Oct 2026 23:00:31 INFO  test result: OrderedDict([('recall@5', 0.0913), ('recall@10', 0.1484), ('recall@15', 0.1944), ('recall@20', 0.2268), ('mrr@5', 0.0473), ('mrr@10', 0.0547), ('mrr@15', 0.0584), ('mrr@20', 0.0602), ('ndcg@5', 0.0582), ('ndcg@10', 0.0764), ('ndcg@15', 0.0886), ('ndcg@20', 0.0963), ('hit@5', 0.0916), ('hit@10', 0.1489), ('hit@15', 0.196), ('hit@20', 0.2287), ('precision@5', 0.0183), ('precision@10', 0.0149), ('precision@15', 0.0131), ('precision@20', 0.0115), ('f1@5', 0.0305), ('f1@10', 0.0271), ('f1@15', 0.0245), ('f1@20', 0.0218), ('gauc', 0.7572)])

@@ -1,0 +1,197 @@
+Wed 30 Sep 2026 13:51:41 INFO  epoch 0 training [time: 11.42s, train loss: 108.3893]
+Wed 30 Sep 2026 13:52:00 INFO  epoch 0 evaluating [time: 19.25s, valid_score: 0.020700]
+Wed 30 Sep 2026 13:52:00 INFO  valid result: 
+recall@5 : 0.0117    recall@10 : 0.018    recall@15 : 0.0226    recall@20 : 0.0265    mrr@5 : 0.0184    mrr@10 : 0.0207    mrr@15 : 0.0218    mrr@20 : 0.0225    ndcg@5 : 0.0112    ndcg@10 : 0.0134    ndcg@15 : 0.015    ndcg@20 : 0.0162    hit@5 : 0.0323    hit@10 : 0.0504    hit@15 : 0.0643    hit@20 : 0.0753    precision@5 : 0.0068    precision@10 : 0.0054    precision@15 : 0.0047    precision@20 : 0.0042    f1@5 : 0.0076    f1@10 : 0.0074    f1@15 : 0.007    f1@20 : 0.0066    gauc : 0.5836
+Wed 30 Sep 2026 13:52:01 INFO  Saving current: saved/KGIN-Sep-30-2026_13-51-30.pth
+Wed 30 Sep 2026 13:52:12 INFO  epoch 1 training [time: 11.23s, train loss: 101.4880]
+Wed 30 Sep 2026 13:52:31 INFO  epoch 1 evaluating [time: 19.29s, valid_score: 0.030300]
+Wed 30 Sep 2026 13:52:31 INFO  valid result: 
+recall@5 : 0.0178    recall@10 : 0.026    recall@15 : 0.0349    recall@20 : 0.0415    mrr@5 : 0.0271    mrr@10 : 0.0303    mrr@15 : 0.0319    mrr@20 : 0.0328    ndcg@5 : 0.017    ndcg@10 : 0.0199    ndcg@15 : 0.0228    ndcg@20 : 0.0249    hit@5 : 0.0481    hit@10 : 0.0725    hit@15 : 0.0936    hit@20 : 0.1095    precision@5 : 0.0101    precision@10 : 0.0078    precision@15 : 0.0069    precision@20 : 0.0062    f1@5 : 0.0113    f1@10 : 0.0108    f1@15 : 0.0105    f1@20 : 0.01    gauc : 0.611
+Wed 30 Sep 2026 13:52:31 INFO  Saving current: saved/KGIN-Sep-30-2026_13-51-30.pth
+Wed 30 Sep 2026 13:52:42 INFO  epoch 2 training [time: 11.05s, train loss: 97.5839]
+Wed 30 Sep 2026 13:53:02 INFO  epoch 2 evaluating [time: 19.99s, valid_score: 0.033400]
+Wed 30 Sep 2026 13:53:02 INFO  valid result: 
+recall@5 : 0.0195    recall@10 : 0.031    recall@15 : 0.0404    recall@20 : 0.0483    mrr@5 : 0.0294    mrr@10 : 0.0334    mrr@15 : 0.0353    mrr@20 : 0.0365    ndcg@5 : 0.0182    ndcg@10 : 0.0223    ndcg@15 : 0.0255    ndcg@20 : 0.028    hit@5 : 0.0516    hit@10 : 0.0823    hit@15 : 0.1066    hit@20 : 0.1271    precision@5 : 0.0109    precision@10 : 0.009    precision@15 : 0.0079    precision@20 : 0.0073    f1@5 : 0.0123    f1@10 : 0.0125    f1@15 : 0.0121    f1@20 : 0.0117    gauc : 0.626
+Wed 30 Sep 2026 13:53:03 INFO  Saving current: saved/KGIN-Sep-30-2026_13-51-30.pth
+Wed 30 Sep 2026 13:53:12 INFO  epoch 3 training [time: 9.46s, train loss: 94.8575]
+Wed 30 Sep 2026 13:53:32 INFO  epoch 3 evaluating [time: 20.14s, valid_score: 0.032600]
+Wed 30 Sep 2026 13:53:32 INFO  valid result: 
+recall@5 : 0.0192    recall@10 : 0.0305    recall@15 : 0.0407    recall@20 : 0.0487    mrr@5 : 0.0288    mrr@10 : 0.0326    mrr@15 : 0.0347    mrr@20 : 0.0357    ndcg@5 : 0.0175    ndcg@10 : 0.0215    ndcg@15 : 0.0249    ndcg@20 : 0.0274    hit@5 : 0.0541    hit@10 : 0.0836    hit@15 : 0.1096    hit@20 : 0.129    precision@5 : 0.0114    precision@10 : 0.0091    precision@15 : 0.0082    precision@20 : 0.0074    f1@5 : 0.0126    f1@10 : 0.0126    f1@15 : 0.0124    f1@20 : 0.0119    gauc : 0.6345
+Wed 30 Sep 2026 13:53:42 INFO  epoch 4 training [time: 9.34s, train loss: 92.8184]
+Wed 30 Sep 2026 13:54:02 INFO  epoch 4 evaluating [time: 20.09s, valid_score: 0.035600]
+Wed 30 Sep 2026 13:54:02 INFO  valid result: 
+recall@5 : 0.0214    recall@10 : 0.0333    recall@15 : 0.0428    recall@20 : 0.0507    mrr@5 : 0.0314    mrr@10 : 0.0356    mrr@15 : 0.0375    mrr@20 : 0.0387    ndcg@5 : 0.0198    ndcg@10 : 0.024    ndcg@15 : 0.0272    ndcg@20 : 0.0297    hit@5 : 0.06    hit@10 : 0.0915    hit@15 : 0.1165    hit@20 : 0.1367    precision@5 : 0.0127    precision@10 : 0.0102    precision@15 : 0.0089    precision@20 : 0.008    f1@5 : 0.014    f1@10 : 0.0138    f1@15 : 0.0133    f1@20 : 0.0127    gauc : 0.6399
+Wed 30 Sep 2026 13:54:02 INFO  Saving current: saved/KGIN-Sep-30-2026_13-51-30.pth
+Wed 30 Sep 2026 13:54:11 INFO  epoch 5 training [time: 9.34s, train loss: 91.1605]
+Wed 30 Sep 2026 13:54:31 INFO  epoch 5 evaluating [time: 19.65s, valid_score: 0.037400]
+Wed 30 Sep 2026 13:54:31 INFO  valid result: 
+recall@5 : 0.0226    recall@10 : 0.0372    recall@15 : 0.0482    recall@20 : 0.0575    mrr@5 : 0.0327    mrr@10 : 0.0374    mrr@15 : 0.0394    mrr@20 : 0.0407    ndcg@5 : 0.0207    ndcg@10 : 0.0258    ndcg@15 : 0.0294    ndcg@20 : 0.0323    hit@5 : 0.0619    hit@10 : 0.0974    hit@15 : 0.124    hit@20 : 0.1456    precision@5 : 0.0132    precision@10 : 0.0107    precision@15 : 0.0094    precision@20 : 0.0085    f1@5 : 0.0146    f1@10 : 0.0149    f1@15 : 0.0143    f1@20 : 0.0136    gauc : 0.6415
+Wed 30 Sep 2026 13:54:31 INFO  Saving current: saved/KGIN-Sep-30-2026_13-51-30.pth
+Wed 30 Sep 2026 13:54:41 INFO  epoch 6 training [time: 9.39s, train loss: 89.8115]
+Wed 30 Sep 2026 13:55:00 INFO  epoch 6 evaluating [time: 19.62s, valid_score: 0.039000]
+Wed 30 Sep 2026 13:55:00 INFO  valid result: 
+recall@5 : 0.0247    recall@10 : 0.0382    recall@15 : 0.048    recall@20 : 0.0563    mrr@5 : 0.0344    mrr@10 : 0.039    mrr@15 : 0.0409    mrr@20 : 0.042    ndcg@5 : 0.022    ndcg@10 : 0.0266    ndcg@15 : 0.0299    ndcg@20 : 0.0325    hit@5 : 0.0658    hit@10 : 0.1004    hit@15 : 0.1242    hit@20 : 0.1454    precision@5 : 0.0141    precision@10 : 0.0112    precision@15 : 0.0095    precision@20 : 0.0085    f1@5 : 0.0156    f1@10 : 0.0154    f1@15 : 0.0144    f1@20 : 0.0135    gauc : 0.648
+Wed 30 Sep 2026 13:55:01 INFO  Saving current: saved/KGIN-Sep-30-2026_13-51-30.pth
+Wed 30 Sep 2026 13:55:10 INFO  epoch 7 training [time: 9.35s, train loss: 88.7036]
+Wed 30 Sep 2026 13:55:30 INFO  epoch 7 evaluating [time: 19.72s, valid_score: 0.037800]
+Wed 30 Sep 2026 13:55:30 INFO  valid result: 
+recall@5 : 0.0227    recall@10 : 0.0373    recall@15 : 0.0486    recall@20 : 0.0575    mrr@5 : 0.0329    mrr@10 : 0.0378    mrr@15 : 0.0399    mrr@20 : 0.0411    ndcg@5 : 0.0207    ndcg@10 : 0.0258    ndcg@15 : 0.0295    ndcg@20 : 0.0323    hit@5 : 0.0632    hit@10 : 0.1006    hit@15 : 0.1278    hit@20 : 0.1486    precision@5 : 0.0135    precision@10 : 0.0111    precision@15 : 0.0098    precision@20 : 0.0088    f1@5 : 0.0147    f1@10 : 0.0152    f1@15 : 0.0147    f1@20 : 0.0139    gauc : 0.6488
+Wed 30 Sep 2026 13:55:39 INFO  epoch 8 training [time: 9.37s, train loss: 87.7719]
+Wed 30 Sep 2026 13:55:58 INFO  epoch 8 evaluating [time: 19.54s, valid_score: 0.040800]
+Wed 30 Sep 2026 13:55:58 INFO  valid result: 
+recall@5 : 0.024    recall@10 : 0.039    recall@15 : 0.0502    recall@20 : 0.0595    mrr@5 : 0.0359    mrr@10 : 0.0408    mrr@15 : 0.043    mrr@20 : 0.0442    ndcg@5 : 0.0224    ndcg@10 : 0.0275    ndcg@15 : 0.0313    ndcg@20 : 0.0341    hit@5 : 0.0669    hit@10 : 0.1036    hit@15 : 0.1324    hit@20 : 0.1536    precision@5 : 0.0144    precision@10 : 0.0116    precision@15 : 0.0102    precision@20 : 0.0092    f1@5 : 0.0156    f1@10 : 0.0158    f1@15 : 0.0153    f1@20 : 0.0145    gauc : 0.6519
+Wed 30 Sep 2026 13:55:59 INFO  Saving current: saved/KGIN-Sep-30-2026_13-51-30.pth
+Wed 30 Sep 2026 13:56:08 INFO  epoch 9 training [time: 9.36s, train loss: 86.6770]
+Wed 30 Sep 2026 13:56:28 INFO  epoch 9 evaluating [time: 20.00s, valid_score: 0.040400]
+Wed 30 Sep 2026 13:56:28 INFO  valid result: 
+recall@5 : 0.0248    recall@10 : 0.0392    recall@15 : 0.0509    recall@20 : 0.0603    mrr@5 : 0.0354    mrr@10 : 0.0404    mrr@15 : 0.0426    mrr@20 : 0.0438    ndcg@5 : 0.0223    ndcg@10 : 0.0273    ndcg@15 : 0.0312    ndcg@20 : 0.0341    hit@5 : 0.0678    hit@10 : 0.105    hit@15 : 0.1335    hit@20 : 0.1562    precision@5 : 0.0145    precision@10 : 0.0117    precision@15 : 0.0102    precision@20 : 0.0092    f1@5 : 0.0159    f1@10 : 0.016    f1@15 : 0.0153    f1@20 : 0.0146    gauc : 0.6529
+Wed 30 Sep 2026 13:56:37 INFO  epoch 10 training [time: 9.33s, train loss: 86.1536]
+Wed 30 Sep 2026 13:56:57 INFO  epoch 10 evaluating [time: 19.77s, valid_score: 0.041700]
+Wed 30 Sep 2026 13:56:57 INFO  valid result: 
+recall@5 : 0.0254    recall@10 : 0.0421    recall@15 : 0.0532    recall@20 : 0.0621    mrr@5 : 0.0364    mrr@10 : 0.0417    mrr@15 : 0.0439    mrr@20 : 0.0451    ndcg@5 : 0.0228    ndcg@10 : 0.0285    ndcg@15 : 0.0322    ndcg@20 : 0.035    hit@5 : 0.0701    hit@10 : 0.1106    hit@15 : 0.1382    hit@20 : 0.1601    precision@5 : 0.0152    precision@10 : 0.0123    precision@15 : 0.0106    precision@20 : 0.0094    f1@5 : 0.0165    f1@10 : 0.0169    f1@15 : 0.016    f1@20 : 0.015    gauc : 0.654
+Wed 30 Sep 2026 13:56:58 INFO  Saving current: saved/KGIN-Sep-30-2026_13-51-30.pth
+Wed 30 Sep 2026 13:57:07 INFO  epoch 11 training [time: 9.53s, train loss: 85.4064]
+Wed 30 Sep 2026 13:57:27 INFO  epoch 11 evaluating [time: 19.66s, valid_score: 0.040400]
+Wed 30 Sep 2026 13:57:27 INFO  valid result: 
+recall@5 : 0.0236    recall@10 : 0.0372    recall@15 : 0.0493    recall@20 : 0.0596    mrr@5 : 0.0357    mrr@10 : 0.0404    mrr@15 : 0.0428    mrr@20 : 0.0442    ndcg@5 : 0.0221    ndcg@10 : 0.0268    ndcg@15 : 0.0308    ndcg@20 : 0.0341    hit@5 : 0.0661    hit@10 : 0.1021    hit@15 : 0.1317    hit@20 : 0.1565    precision@5 : 0.0141    precision@10 : 0.0116    precision@15 : 0.0102    precision@20 : 0.0093    f1@5 : 0.0152    f1@10 : 0.0156    f1@15 : 0.0153    f1@20 : 0.0147    gauc : 0.6548
+Wed 30 Sep 2026 13:57:36 INFO  epoch 12 training [time: 9.23s, train loss: 84.8292]
+Wed 30 Sep 2026 13:57:56 INFO  epoch 12 evaluating [time: 19.72s, valid_score: 0.044500]
+Wed 30 Sep 2026 13:57:56 INFO  valid result: 
+recall@5 : 0.0259    recall@10 : 0.0411    recall@15 : 0.0536    recall@20 : 0.0637    mrr@5 : 0.0396    mrr@10 : 0.0445    mrr@15 : 0.0469    mrr@20 : 0.0483    ndcg@5 : 0.0244    ndcg@10 : 0.0294    ndcg@15 : 0.0335    ndcg@20 : 0.0367    hit@5 : 0.0735    hit@10 : 0.111    hit@15 : 0.1411    hit@20 : 0.1658    precision@5 : 0.0157    precision@10 : 0.0124    precision@15 : 0.0108    precision@20 : 0.0098    f1@5 : 0.0169    f1@10 : 0.0168    f1@15 : 0.0162    f1@20 : 0.0155    gauc : 0.6572
+Wed 30 Sep 2026 13:57:56 INFO  Saving current: saved/KGIN-Sep-30-2026_13-51-30.pth
+Wed 30 Sep 2026 13:58:05 INFO  epoch 13 training [time: 9.14s, train loss: 84.1226]
+Wed 30 Sep 2026 13:58:25 INFO  epoch 13 evaluating [time: 19.88s, valid_score: 0.045200]
+Wed 30 Sep 2026 13:58:25 INFO  valid result: 
+recall@5 : 0.026    recall@10 : 0.0424    recall@15 : 0.0533    recall@20 : 0.0634    mrr@5 : 0.0397    mrr@10 : 0.0452    mrr@15 : 0.0474    mrr@20 : 0.0487    ndcg@5 : 0.0246    ndcg@10 : 0.0302    ndcg@15 : 0.0339    ndcg@20 : 0.0371    hit@5 : 0.0721    hit@10 : 0.1138    hit@15 : 0.1417    hit@20 : 0.1653    precision@5 : 0.0157    precision@10 : 0.0128    precision@15 : 0.011    precision@20 : 0.0099    f1@5 : 0.017    f1@10 : 0.0174    f1@15 : 0.0165    f1@20 : 0.0156    gauc : 0.6567
+Wed 30 Sep 2026 13:58:25 INFO  Saving current: saved/KGIN-Sep-30-2026_13-51-30.pth
+Wed 30 Sep 2026 13:58:35 INFO  epoch 14 training [time: 9.42s, train loss: 83.7265]
+Wed 30 Sep 2026 13:58:54 INFO  epoch 14 evaluating [time: 19.61s, valid_score: 0.044800]
+Wed 30 Sep 2026 13:58:54 INFO  valid result: 
+recall@5 : 0.0265    recall@10 : 0.0415    recall@15 : 0.0531    recall@20 : 0.0623    mrr@5 : 0.0396    mrr@10 : 0.0448    mrr@15 : 0.0472    mrr@20 : 0.0485    ndcg@5 : 0.0248    ndcg@10 : 0.03    ndcg@15 : 0.0338    ndcg@20 : 0.0367    hit@5 : 0.074    hit@10 : 0.1138    hit@15 : 0.1439    hit@20 : 0.1664    precision@5 : 0.0159    precision@10 : 0.0129    precision@15 : 0.0112    precision@20 : 0.01    f1@5 : 0.0171    f1@10 : 0.0174    f1@15 : 0.0166    f1@20 : 0.0157    gauc : 0.6587
+Wed 30 Sep 2026 13:59:04 INFO  epoch 15 training [time: 9.35s, train loss: 83.1399]
+Wed 30 Sep 2026 13:59:23 INFO  epoch 15 evaluating [time: 19.74s, valid_score: 0.043000]
+Wed 30 Sep 2026 13:59:23 INFO  valid result: 
+recall@5 : 0.0258    recall@10 : 0.0398    recall@15 : 0.0524    recall@20 : 0.0643    mrr@5 : 0.0381    mrr@10 : 0.043    mrr@15 : 0.0454    mrr@20 : 0.0468    ndcg@5 : 0.0239    ndcg@10 : 0.0287    ndcg@15 : 0.0328    ndcg@20 : 0.0364    hit@5 : 0.0725    hit@10 : 0.1099    hit@15 : 0.1402    hit@20 : 0.1657    precision@5 : 0.0158    precision@10 : 0.0125    precision@15 : 0.0109    precision@20 : 0.01    f1@5 : 0.017    f1@10 : 0.0168    f1@15 : 0.0162    f1@20 : 0.0158    gauc : 0.6592
+Wed 30 Sep 2026 13:59:33 INFO  epoch 16 training [time: 9.37s, train loss: 82.6519]
+Wed 30 Sep 2026 13:59:52 INFO  epoch 16 evaluating [time: 19.61s, valid_score: 0.046400]
+Wed 30 Sep 2026 13:59:52 INFO  valid result: 
+recall@5 : 0.0265    recall@10 : 0.042    recall@15 : 0.0538    recall@20 : 0.0635    mrr@5 : 0.0412    mrr@10 : 0.0464    mrr@15 : 0.0487    mrr@20 : 0.0499    ndcg@5 : 0.0253    ndcg@10 : 0.0305    ndcg@15 : 0.0344    ndcg@20 : 0.0374    hit@5 : 0.074    hit@10 : 0.114    hit@15 : 0.1432    hit@20 : 0.1648    precision@5 : 0.0159    precision@10 : 0.0128    precision@15 : 0.0111    precision@20 : 0.0099    f1@5 : 0.0173    f1@10 : 0.0173    f1@15 : 0.0166    f1@20 : 0.0157    gauc : 0.6603
+Wed 30 Sep 2026 13:59:53 INFO  Saving current: saved/KGIN-Sep-30-2026_13-51-30.pth
+Wed 30 Sep 2026 14:00:02 INFO  epoch 17 training [time: 9.34s, train loss: 82.1448]
+Wed 30 Sep 2026 14:00:22 INFO  epoch 17 evaluating [time: 19.85s, valid_score: 0.047300]
+Wed 30 Sep 2026 14:00:22 INFO  valid result: 
+recall@5 : 0.0277    recall@10 : 0.044    recall@15 : 0.0556    recall@20 : 0.0653    mrr@5 : 0.0418    mrr@10 : 0.0473    mrr@15 : 0.0495    mrr@20 : 0.0508    ndcg@5 : 0.0259    ndcg@10 : 0.0315    ndcg@15 : 0.0354    ndcg@20 : 0.0384    hit@5 : 0.077    hit@10 : 0.1182    hit@15 : 0.146    hit@20 : 0.1694    precision@5 : 0.0164    precision@10 : 0.0132    precision@15 : 0.0113    precision@20 : 0.0101    f1@5 : 0.0179    f1@10 : 0.018    f1@15 : 0.0169    f1@20 : 0.0159    gauc : 0.6594
+Wed 30 Sep 2026 14:00:22 INFO  Saving current: saved/KGIN-Sep-30-2026_13-51-30.pth
+Wed 30 Sep 2026 14:00:31 INFO  epoch 18 training [time: 9.31s, train loss: 81.6630]
+Wed 30 Sep 2026 14:00:51 INFO  epoch 18 evaluating [time: 19.63s, valid_score: 0.047700]
+Wed 30 Sep 2026 14:00:51 INFO  valid result: 
+recall@5 : 0.0272    recall@10 : 0.0427    recall@15 : 0.056    recall@20 : 0.0667    mrr@5 : 0.0425    mrr@10 : 0.0477    mrr@15 : 0.0501    mrr@20 : 0.0515    ndcg@5 : 0.0259    ndcg@10 : 0.0312    ndcg@15 : 0.0356    ndcg@20 : 0.0389    hit@5 : 0.0766    hit@10 : 0.1162    hit@15 : 0.1462    hit@20 : 0.1711    precision@5 : 0.0162    precision@10 : 0.013    precision@15 : 0.0114    precision@20 : 0.0103    f1@5 : 0.0176    f1@10 : 0.0176    f1@15 : 0.017    f1@20 : 0.0162    gauc : 0.6608
+Wed 30 Sep 2026 14:00:51 INFO  Saving current: saved/KGIN-Sep-30-2026_13-51-30.pth
+Wed 30 Sep 2026 14:01:01 INFO  epoch 19 training [time: 9.39s, train loss: 81.2287]
+Wed 30 Sep 2026 14:01:21 INFO  epoch 19 evaluating [time: 19.85s, valid_score: 0.047200]
+Wed 30 Sep 2026 14:01:21 INFO  valid result: 
+recall@5 : 0.0269    recall@10 : 0.0408    recall@15 : 0.0531    recall@20 : 0.0626    mrr@5 : 0.0425    mrr@10 : 0.0472    mrr@15 : 0.0496    mrr@20 : 0.0508    ndcg@5 : 0.0257    ndcg@10 : 0.0304    ndcg@15 : 0.0344    ndcg@20 : 0.0374    hit@5 : 0.0756    hit@10 : 0.1117    hit@15 : 0.1413    hit@20 : 0.1642    precision@5 : 0.0161    precision@10 : 0.0126    precision@15 : 0.011    precision@20 : 0.0098    f1@5 : 0.0175    f1@10 : 0.017    f1@15 : 0.0164    f1@20 : 0.0155    gauc : 0.6598
+Wed 30 Sep 2026 14:01:30 INFO  epoch 20 training [time: 9.28s, train loss: 80.7951]
+Wed 30 Sep 2026 14:01:49 INFO  epoch 20 evaluating [time: 19.60s, valid_score: 0.044500]
+Wed 30 Sep 2026 14:01:49 INFO  valid result: 
+recall@5 : 0.0276    recall@10 : 0.0441    recall@15 : 0.0568    recall@20 : 0.0685    mrr@5 : 0.0389    mrr@10 : 0.0445    mrr@15 : 0.0469    mrr@20 : 0.0483    ndcg@5 : 0.025    ndcg@10 : 0.0307    ndcg@15 : 0.0349    ndcg@20 : 0.0384    hit@5 : 0.0749    hit@10 : 0.118    hit@15 : 0.1486    hit@20 : 0.174    precision@5 : 0.0162    precision@10 : 0.0134    precision@15 : 0.0116    precision@20 : 0.0105    f1@5 : 0.0176    f1@10 : 0.0181    f1@15 : 0.0174    f1@20 : 0.0166    gauc : 0.6619
+Wed 30 Sep 2026 14:01:59 INFO  epoch 21 training [time: 9.33s, train loss: 80.4042]
+Wed 30 Sep 2026 14:02:19 INFO  epoch 21 evaluating [time: 19.96s, valid_score: 0.047700]
+Wed 30 Sep 2026 14:02:19 INFO  valid result: 
+recall@5 : 0.0276    recall@10 : 0.0429    recall@15 : 0.0548    recall@20 : 0.0644    mrr@5 : 0.0425    mrr@10 : 0.0477    mrr@15 : 0.0501    mrr@20 : 0.0514    ndcg@5 : 0.0262    ndcg@10 : 0.0312    ndcg@15 : 0.0352    ndcg@20 : 0.0382    hit@5 : 0.075    hit@10 : 0.1148    hit@15 : 0.145    hit@20 : 0.1684    precision@5 : 0.016    precision@10 : 0.0127    precision@15 : 0.0111    precision@20 : 0.01    f1@5 : 0.0174    f1@10 : 0.0173    f1@15 : 0.0166    f1@20 : 0.0157    gauc : 0.6619
+Wed 30 Sep 2026 14:02:19 INFO  Saving current: saved/KGIN-Sep-30-2026_13-51-30.pth
+Wed 30 Sep 2026 14:02:28 INFO  epoch 22 training [time: 9.38s, train loss: 80.0209]
+Wed 30 Sep 2026 14:02:48 INFO  epoch 22 evaluating [time: 19.47s, valid_score: 0.046800]
+Wed 30 Sep 2026 14:02:48 INFO  valid result: 
+recall@5 : 0.0278    recall@10 : 0.0426    recall@15 : 0.0539    recall@20 : 0.0635    mrr@5 : 0.0418    mrr@10 : 0.0468    mrr@15 : 0.049    mrr@20 : 0.0504    ndcg@5 : 0.026    ndcg@10 : 0.0311    ndcg@15 : 0.0349    ndcg@20 : 0.0379    hit@5 : 0.0753    hit@10 : 0.113    hit@15 : 0.1415    hit@20 : 0.1661    precision@5 : 0.0162    precision@10 : 0.0128    precision@15 : 0.0111    precision@20 : 0.01    f1@5 : 0.0178    f1@10 : 0.0175    f1@15 : 0.0165    f1@20 : 0.0157    gauc : 0.6623
+Wed 30 Sep 2026 14:02:57 INFO  epoch 23 training [time: 9.31s, train loss: 79.6760]
+Wed 30 Sep 2026 14:03:17 INFO  epoch 23 evaluating [time: 19.96s, valid_score: 0.048300]
+Wed 30 Sep 2026 14:03:17 INFO  valid result: 
+recall@5 : 0.0289    recall@10 : 0.0444    recall@15 : 0.0568    recall@20 : 0.0683    mrr@5 : 0.0431    mrr@10 : 0.0483    mrr@15 : 0.0506    mrr@20 : 0.052    ndcg@5 : 0.0272    ndcg@10 : 0.0324    ndcg@15 : 0.0365    ndcg@20 : 0.04    hit@5 : 0.078    hit@10 : 0.1175    hit@15 : 0.1473    hit@20 : 0.1728    precision@5 : 0.0169    precision@10 : 0.0133    precision@15 : 0.0115    precision@20 : 0.0104    f1@5 : 0.0185    f1@10 : 0.0182    f1@15 : 0.0172    f1@20 : 0.0165    gauc : 0.6632
+Wed 30 Sep 2026 14:03:17 INFO  Saving current: saved/KGIN-Sep-30-2026_13-51-30.pth
+Wed 30 Sep 2026 14:03:27 INFO  epoch 24 training [time: 9.36s, train loss: 79.2457]
+Wed 30 Sep 2026 14:03:47 INFO  epoch 24 evaluating [time: 19.86s, valid_score: 0.048900]
+Wed 30 Sep 2026 14:03:47 INFO  valid result: 
+recall@5 : 0.0275    recall@10 : 0.0429    recall@15 : 0.0547    recall@20 : 0.0645    mrr@5 : 0.0436    mrr@10 : 0.0489    mrr@15 : 0.0512    mrr@20 : 0.0525    ndcg@5 : 0.0266    ndcg@10 : 0.0318    ndcg@15 : 0.0357    ndcg@20 : 0.0388    hit@5 : 0.0761    hit@10 : 0.1167    hit@15 : 0.1471    hit@20 : 0.1698    precision@5 : 0.0165    precision@10 : 0.0132    precision@15 : 0.0114    precision@20 : 0.0102    f1@5 : 0.0179    f1@10 : 0.0178    f1@15 : 0.017    f1@20 : 0.016    gauc : 0.6631
+Wed 30 Sep 2026 14:03:47 INFO  Saving current: saved/KGIN-Sep-30-2026_13-51-30.pth
+Wed 30 Sep 2026 14:03:56 INFO  epoch 25 training [time: 9.20s, train loss: 78.8026]
+Wed 30 Sep 2026 14:04:16 INFO  epoch 25 evaluating [time: 19.84s, valid_score: 0.045700]
+Wed 30 Sep 2026 14:04:16 INFO  valid result: 
+recall@5 : 0.0269    recall@10 : 0.0422    recall@15 : 0.0556    recall@20 : 0.066    mrr@5 : 0.0406    mrr@10 : 0.0457    mrr@15 : 0.0482    mrr@20 : 0.0496    ndcg@5 : 0.0253    ndcg@10 : 0.0305    ndcg@15 : 0.0349    ndcg@20 : 0.0381    hit@5 : 0.0736    hit@10 : 0.1133    hit@15 : 0.1441    hit@20 : 0.1695    precision@5 : 0.0158    precision@10 : 0.0128    precision@15 : 0.0113    precision@20 : 0.0102    f1@5 : 0.0172    f1@10 : 0.0174    f1@15 : 0.0169    f1@20 : 0.0161    gauc : 0.6623
+Wed 30 Sep 2026 14:04:25 INFO  epoch 26 training [time: 9.18s, train loss: 78.3808]
+Wed 30 Sep 2026 14:04:45 INFO  epoch 26 evaluating [time: 19.73s, valid_score: 0.048000]
+Wed 30 Sep 2026 14:04:45 INFO  valid result: 
+recall@5 : 0.0281    recall@10 : 0.0456    recall@15 : 0.0578    recall@20 : 0.0677    mrr@5 : 0.0422    mrr@10 : 0.048    mrr@15 : 0.0504    mrr@20 : 0.0517    ndcg@5 : 0.0263    ndcg@10 : 0.0325    ndcg@15 : 0.0365    ndcg@20 : 0.0397    hit@5 : 0.0766    hit@10 : 0.1206    hit@15 : 0.1507    hit@20 : 0.1739    precision@5 : 0.0165    precision@10 : 0.0137    precision@15 : 0.0118    precision@20 : 0.0105    f1@5 : 0.018    f1@10 : 0.0186    f1@15 : 0.0176    f1@20 : 0.0166    gauc : 0.6651
+Wed 30 Sep 2026 14:04:54 INFO  epoch 27 training [time: 9.36s, train loss: 78.0105]
+Wed 30 Sep 2026 14:05:14 INFO  epoch 27 evaluating [time: 19.48s, valid_score: 0.052600]
+Wed 30 Sep 2026 14:05:14 INFO  valid result: 
+recall@5 : 0.0317    recall@10 : 0.0493    recall@15 : 0.0632    recall@20 : 0.0735    mrr@5 : 0.0468    mrr@10 : 0.0526    mrr@15 : 0.055    mrr@20 : 0.0563    ndcg@5 : 0.0296    ndcg@10 : 0.0354    ndcg@15 : 0.04    ndcg@20 : 0.0433    hit@5 : 0.0859    hit@10 : 0.1296    hit@15 : 0.1607    hit@20 : 0.1841    precision@5 : 0.0187    precision@10 : 0.0146    precision@15 : 0.0126    precision@20 : 0.0113    f1@5 : 0.0203    f1@10 : 0.0199    f1@15 : 0.019    f1@20 : 0.0178    gauc : 0.6645
+Wed 30 Sep 2026 14:05:14 INFO  Saving current: saved/KGIN-Sep-30-2026_13-51-30.pth
+Wed 30 Sep 2026 14:05:23 INFO  epoch 28 training [time: 9.33s, train loss: 77.6678]
+Wed 30 Sep 2026 14:05:43 INFO  epoch 28 evaluating [time: 19.83s, valid_score: 0.050500]
+Wed 30 Sep 2026 14:05:43 INFO  valid result: 
+recall@5 : 0.0283    recall@10 : 0.0447    recall@15 : 0.0579    recall@20 : 0.0685    mrr@5 : 0.0449    mrr@10 : 0.0505    mrr@15 : 0.053    mrr@20 : 0.0544    ndcg@5 : 0.0273    ndcg@10 : 0.0328    ndcg@15 : 0.0371    ndcg@20 : 0.0404    hit@5 : 0.0797    hit@10 : 0.1216    hit@15 : 0.1537    hit@20 : 0.1793    precision@5 : 0.0172    precision@10 : 0.0138    precision@15 : 0.012    precision@20 : 0.0108    f1@5 : 0.0185    f1@10 : 0.0186    f1@15 : 0.0179    f1@20 : 0.017    gauc : 0.6648
+Wed 30 Sep 2026 14:05:52 INFO  epoch 29 training [time: 9.22s, train loss: 77.3341]
+Wed 30 Sep 2026 14:06:12 INFO  epoch 29 evaluating [time: 19.71s, valid_score: 0.051700]
+Wed 30 Sep 2026 14:06:12 INFO  valid result: 
+recall@5 : 0.0295    recall@10 : 0.0454    recall@15 : 0.0568    recall@20 : 0.0682    mrr@5 : 0.0465    mrr@10 : 0.0517    mrr@15 : 0.0539    mrr@20 : 0.0555    ndcg@5 : 0.0285    ndcg@10 : 0.0336    ndcg@15 : 0.0373    ndcg@20 : 0.0409    hit@5 : 0.0817    hit@10 : 0.1211    hit@15 : 0.1493    hit@20 : 0.1769    precision@5 : 0.0177    precision@10 : 0.0137    precision@15 : 0.0115    precision@20 : 0.0106    f1@5 : 0.0193    f1@10 : 0.0186    f1@15 : 0.0173    f1@20 : 0.0167    gauc : 0.6641
+Wed 30 Sep 2026 14:06:21 INFO  epoch 30 training [time: 9.31s, train loss: 76.9680]
+Wed 30 Sep 2026 14:06:41 INFO  epoch 30 evaluating [time: 19.62s, valid_score: 0.055600]
+Wed 30 Sep 2026 14:06:41 INFO  valid result: 
+recall@5 : 0.0307    recall@10 : 0.0462    recall@15 : 0.0597    recall@20 : 0.0708    mrr@5 : 0.0502    mrr@10 : 0.0556    mrr@15 : 0.058    mrr@20 : 0.0593    ndcg@5 : 0.0304    ndcg@10 : 0.0355    ndcg@15 : 0.0399    ndcg@20 : 0.0433    hit@5 : 0.0859    hit@10 : 0.1266    hit@15 : 0.1571    hit@20 : 0.1821    precision@5 : 0.0187    precision@10 : 0.0144    precision@15 : 0.0124    precision@20 : 0.011    f1@5 : 0.0202    f1@10 : 0.0195    f1@15 : 0.0185    f1@20 : 0.0174    gauc : 0.6651
+Wed 30 Sep 2026 14:06:41 INFO  Saving current: saved/KGIN-Sep-30-2026_13-51-30.pth
+Wed 30 Sep 2026 14:06:51 INFO  epoch 31 training [time: 9.21s, train loss: 76.4970]
+Wed 30 Sep 2026 14:07:14 INFO  epoch 31 evaluating [time: 23.47s, valid_score: 0.054600]
+Wed 30 Sep 2026 14:07:14 INFO  valid result: 
+recall@5 : 0.0323    recall@10 : 0.0493    recall@15 : 0.0639    recall@20 : 0.0765    mrr@5 : 0.0491    mrr@10 : 0.0546    mrr@15 : 0.0572    mrr@20 : 0.0588    ndcg@5 : 0.0306    ndcg@10 : 0.0362    ndcg@15 : 0.041    ndcg@20 : 0.0449    hit@5 : 0.088    hit@10 : 0.1293    hit@15 : 0.1636    hit@20 : 0.1912    precision@5 : 0.019    precision@10 : 0.0146    precision@15 : 0.0128    precision@20 : 0.0116    f1@5 : 0.0209    f1@10 : 0.02    f1@15 : 0.0192    f1@20 : 0.0183    gauc : 0.6656
+Wed 30 Sep 2026 14:07:23 INFO  epoch 32 training [time: 9.39s, train loss: 76.2580]
+Wed 30 Sep 2026 14:07:43 INFO  epoch 32 evaluating [time: 19.61s, valid_score: 0.050200]
+Wed 30 Sep 2026 14:07:43 INFO  valid result: 
+recall@5 : 0.028    recall@10 : 0.0451    recall@15 : 0.0573    recall@20 : 0.0695    mrr@5 : 0.0444    mrr@10 : 0.0502    mrr@15 : 0.0524    mrr@20 : 0.0538    ndcg@5 : 0.0271    ndcg@10 : 0.0328    ndcg@15 : 0.0368    ndcg@20 : 0.0406    hit@5 : 0.0801    hit@10 : 0.1232    hit@15 : 0.1516    hit@20 : 0.1774    precision@5 : 0.0173    precision@10 : 0.0139    precision@15 : 0.0119    precision@20 : 0.0108    f1@5 : 0.0185    f1@10 : 0.0187    f1@15 : 0.0178    f1@20 : 0.0171    gauc : 0.6671
+Wed 30 Sep 2026 14:07:52 INFO  epoch 33 training [time: 9.29s, train loss: 75.8069]
+Wed 30 Sep 2026 14:08:12 INFO  epoch 33 evaluating [time: 19.94s, valid_score: 0.050300]
+Wed 30 Sep 2026 14:08:12 INFO  valid result: 
+recall@5 : 0.0295    recall@10 : 0.0442    recall@15 : 0.0579    recall@20 : 0.0678    mrr@5 : 0.0452    mrr@10 : 0.0503    mrr@15 : 0.0529    mrr@20 : 0.0542    ndcg@5 : 0.0278    ndcg@10 : 0.0327    ndcg@15 : 0.0372    ndcg@20 : 0.0403    hit@5 : 0.0823    hit@10 : 0.1214    hit@15 : 0.1536    hit@20 : 0.1764    precision@5 : 0.0176    precision@10 : 0.0137    precision@15 : 0.012    precision@20 : 0.0107    f1@5 : 0.0191    f1@10 : 0.0186    f1@15 : 0.0179    f1@20 : 0.0169    gauc : 0.6663
+Wed 30 Sep 2026 14:08:22 INFO  epoch 34 training [time: 9.37s, train loss: 75.4449]
+Wed 30 Sep 2026 14:08:41 INFO  epoch 34 evaluating [time: 19.83s, valid_score: 0.055800]
+Wed 30 Sep 2026 14:08:41 INFO  valid result: 
+recall@5 : 0.0325    recall@10 : 0.0485    recall@15 : 0.0609    recall@20 : 0.0709    mrr@5 : 0.0503    mrr@10 : 0.0558    mrr@15 : 0.0581    mrr@20 : 0.0594    ndcg@5 : 0.0311    ndcg@10 : 0.0363    ndcg@15 : 0.0403    ndcg@20 : 0.0434    hit@5 : 0.088    hit@10 : 0.1302    hit@15 : 0.1592    hit@20 : 0.1832    precision@5 : 0.019    precision@10 : 0.0146    precision@15 : 0.0124    precision@20 : 0.011    f1@5 : 0.0206    f1@10 : 0.0198    f1@15 : 0.0185    f1@20 : 0.0174    gauc : 0.6666
+Wed 30 Sep 2026 14:08:42 INFO  Saving current: saved/KGIN-Sep-30-2026_13-51-30.pth
+Wed 30 Sep 2026 14:08:51 INFO  epoch 35 training [time: 9.32s, train loss: 75.1550]
+Wed 30 Sep 2026 14:09:11 INFO  epoch 35 evaluating [time: 19.47s, valid_score: 0.053300]
+Wed 30 Sep 2026 14:09:11 INFO  valid result: 
+recall@5 : 0.0316    recall@10 : 0.0469    recall@15 : 0.0608    recall@20 : 0.0721    mrr@5 : 0.0478    mrr@10 : 0.0533    mrr@15 : 0.0559    mrr@20 : 0.0573    ndcg@5 : 0.0297    ndcg@10 : 0.0348    ndcg@15 : 0.0394    ndcg@20 : 0.0429    hit@5 : 0.085    hit@10 : 0.1268    hit@15 : 0.1593    hit@20 : 0.1849    precision@5 : 0.0184    precision@10 : 0.0142    precision@15 : 0.0124    precision@20 : 0.0111    f1@5 : 0.0201    f1@10 : 0.0192    f1@15 : 0.0185    f1@20 : 0.0175    gauc : 0.6663
+Wed 30 Sep 2026 14:09:20 INFO  epoch 36 training [time: 9.23s, train loss: 74.7030]
+Wed 30 Sep 2026 14:09:39 INFO  epoch 36 evaluating [time: 19.57s, valid_score: 0.051600]
+Wed 30 Sep 2026 14:09:39 INFO  valid result: 
+recall@5 : 0.0303    recall@10 : 0.0477    recall@15 : 0.06    recall@20 : 0.0708    mrr@5 : 0.0459    mrr@10 : 0.0516    mrr@15 : 0.0539    mrr@20 : 0.0554    ndcg@5 : 0.0285    ndcg@10 : 0.0343    ndcg@15 : 0.0383    ndcg@20 : 0.0417    hit@5 : 0.0826    hit@10 : 0.1251    hit@15 : 0.1547    hit@20 : 0.1805    precision@5 : 0.0178    precision@10 : 0.0141    precision@15 : 0.0121    precision@20 : 0.0109    f1@5 : 0.0193    f1@10 : 0.0192    f1@15 : 0.0181    f1@20 : 0.0171    gauc : 0.6669
+Wed 30 Sep 2026 14:09:49 INFO  epoch 37 training [time: 9.30s, train loss: 74.3857]
+Wed 30 Sep 2026 14:10:08 INFO  epoch 37 evaluating [time: 19.43s, valid_score: 0.051600]
+Wed 30 Sep 2026 14:10:08 INFO  valid result: 
+recall@5 : 0.0299    recall@10 : 0.0475    recall@15 : 0.0611    recall@20 : 0.0716    mrr@5 : 0.0456    mrr@10 : 0.0516    mrr@15 : 0.054    mrr@20 : 0.0555    ndcg@5 : 0.0284    ndcg@10 : 0.0344    ndcg@15 : 0.0388    ndcg@20 : 0.0422    hit@5 : 0.0818    hit@10 : 0.1266    hit@15 : 0.1583    hit@20 : 0.1839    precision@5 : 0.0176    precision@10 : 0.0142    precision@15 : 0.0123    precision@20 : 0.0111    f1@5 : 0.0192    f1@10 : 0.0193    f1@15 : 0.0184    f1@20 : 0.0175    gauc : 0.6672
+Wed 30 Sep 2026 14:10:17 INFO  epoch 38 training [time: 9.31s, train loss: 74.0354]
+Wed 30 Sep 2026 14:10:37 INFO  epoch 38 evaluating [time: 19.87s, valid_score: 0.051100]
+Wed 30 Sep 2026 14:10:37 INFO  valid result: 
+recall@5 : 0.0301    recall@10 : 0.0459    recall@15 : 0.059    recall@20 : 0.0686    mrr@5 : 0.0457    mrr@10 : 0.0511    mrr@15 : 0.0535    mrr@20 : 0.0548    ndcg@5 : 0.0282    ndcg@10 : 0.0334    ndcg@15 : 0.0376    ndcg@20 : 0.0406    hit@5 : 0.0851    hit@10 : 0.1253    hit@15 : 0.1563    hit@20 : 0.1791    precision@5 : 0.0184    precision@10 : 0.0143    precision@15 : 0.0124    precision@20 : 0.0109    f1@5 : 0.0196    f1@10 : 0.0191    f1@15 : 0.0183    f1@20 : 0.0171    gauc : 0.6672
+Wed 30 Sep 2026 14:10:47 INFO  epoch 39 training [time: 9.41s, train loss: 73.8190]
+Wed 30 Sep 2026 14:11:06 INFO  epoch 39 evaluating [time: 19.56s, valid_score: 0.052600]
+Wed 30 Sep 2026 14:11:06 INFO  valid result: 
+recall@5 : 0.0319    recall@10 : 0.0493    recall@15 : 0.0621    recall@20 : 0.0741    mrr@5 : 0.0469    mrr@10 : 0.0526    mrr@15 : 0.0551    mrr@20 : 0.0567    ndcg@5 : 0.0298    ndcg@10 : 0.0357    ndcg@15 : 0.04    ndcg@20 : 0.0437    hit@5 : 0.084    hit@10 : 0.1273    hit@15 : 0.1589    hit@20 : 0.1876    precision@5 : 0.0182    precision@10 : 0.0145    precision@15 : 0.0124    precision@20 : 0.0113    f1@5 : 0.02    f1@10 : 0.0197    f1@15 : 0.0186    f1@20 : 0.0179    gauc : 0.6675
+Wed 30 Sep 2026 14:11:16 INFO  epoch 40 training [time: 9.86s, train loss: 73.3332]
+Wed 30 Sep 2026 14:11:36 INFO  epoch 40 evaluating [time: 19.60s, valid_score: 0.052500]
+Wed 30 Sep 2026 14:11:36 INFO  valid result: 
+recall@5 : 0.0299    recall@10 : 0.0468    recall@15 : 0.0605    recall@20 : 0.0721    mrr@5 : 0.0466    mrr@10 : 0.0525    mrr@15 : 0.0549    mrr@20 : 0.0564    ndcg@5 : 0.0288    ndcg@10 : 0.0345    ndcg@15 : 0.0389    ndcg@20 : 0.0425    hit@5 : 0.0833    hit@10 : 0.128    hit@15 : 0.1596    hit@20 : 0.186    precision@5 : 0.018    precision@10 : 0.0144    precision@15 : 0.0124    precision@20 : 0.0112    f1@5 : 0.0194    f1@10 : 0.0194    f1@15 : 0.0185    f1@20 : 0.0177    gauc : 0.6681
+Wed 30 Sep 2026 14:11:36 INFO  Finished training, best eval result in epoch 34
+Wed 30 Sep 2026 14:11:36 INFO  Loading model structure and parameters from saved/KGIN-Sep-30-2026_13-51-30.pth
+Wed 30 Sep 2026 14:11:57 INFO  The running environment of this training is as follows:
++-------------+-----------------+
+| Environment |      Usage      |
++=============+=================+
+| CPU         |     0.00 %      |
++-------------+-----------------+
+| GPU         | 0.18 G/31.74 G  |
++-------------+-----------------+
+| Memory      | 2.26 G/503.38 G |
++-------------+-----------------+
+Wed 30 Sep 2026 14:11:57 INFO  best valid : OrderedDict([('recall@5', 0.0325), ('recall@10', 0.0485), ('recall@15', 0.0609), ('recall@20', 0.0709), ('mrr@5', 0.0503), ('mrr@10', 0.0558), ('mrr@15', 0.0581), ('mrr@20', 0.0594), ('ndcg@5', 0.0311), ('ndcg@10', 0.0363), ('ndcg@15', 0.0403), ('ndcg@20', 0.0434), ('hit@5', 0.088), ('hit@10', 0.1302), ('hit@15', 0.1592), ('hit@20', 0.1832), ('precision@5', 0.019), ('precision@10', 0.0146), ('precision@15', 0.0124), ('precision@20', 0.011), ('f1@5', 0.0206), ('f1@10', 0.0198), ('f1@15', 0.0185), ('f1@20', 0.0174), ('gauc', 0.6666)])
+Wed 30 Sep 2026 14:11:57 INFO  test result: OrderedDict([('recall@5', 0.0313), ('recall@10', 0.0485), ('recall@15', 0.0627), ('recall@20', 0.074), ('mrr@5', 0.0496), ('mrr@10', 0.0553), ('mrr@15', 0.0579), ('mrr@20', 0.0594), ('ndcg@5', 0.0303), ('ndcg@10', 0.0359), ('ndcg@15', 0.0405), ('ndcg@20', 0.0441), ('hit@5', 0.0875), ('hit@10', 0.1307), ('hit@15', 0.1638), ('hit@20', 0.1904), ('precision@5', 0.0191), ('precision@10', 0.0149), ('precision@15', 0.0128), ('precision@20', 0.0115), ('f1@5', 0.0206), ('f1@10', 0.0202), ('f1@15', 0.0191), ('f1@20', 0.0181), ('gauc', 0.6666)])
